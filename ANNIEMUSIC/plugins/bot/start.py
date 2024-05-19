@@ -24,7 +24,7 @@ from ANNIEMUSIC.utils.database import (
 from ANNIEMUSIC.utils.decorators.language import LanguageStart
 from ANNIEMUSIC.utils.formatters import get_readable_time
 from ANNIEMUSIC.utils.inline import help_pannel, private_panel, start_panel
-from config import BANNED_USERS, AYUV
+from config import BANNED_USERS, AYUVV
 from strings import get_string
 
 ANNIE_VID = [
