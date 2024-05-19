@@ -28,16 +28,16 @@ from config import BANNED_USERS, AYUV
 from strings import get_string
 
 ANNIE_VID = [
-    "https://telegra.ph/file/9b7e1b820c72a14d90be7.mp4",
-    "https://telegra.ph/file/a4d90b0cb759b67d68644.mp4",
-    "https://telegra.ph/file/72f349b1386d6d9374a38.mp4",
-    "https://telegra.ph/file/2b75449612172a96d4599.mp4",
-    "https://telegra.ph/file/b3ac2d77205d5ded860de.mp4",
-    "https://telegra.ph/file/58ae4ac86ef70dc8c8f6a.mp4",
-    "https://telegra.ph/file/c6c1ac9aee4192a8a3747.mp4",
-    "https://telegra.ph/file/55c840c8eba0555318f0d.mp4",
+    "https://telegra.ph/file/c7fc58423bbdac8159654.mp4",
+    "https://telegra.ph/file/cebc25829d99851b76b99.jpg",
+    "https://telegra.ph/file/cd996463de11729bc12ed.mp4",
+    "https://telegra.ph/file/1d947bef06a57c4a1091e.jpg",
+    "https://telegra.ph/file/6db754de9707eee737345.mp4",
+    "https://telegra.ph/file/ecc9233d3f09286fa560a.mp4",
+    "https://telegra.ph/file/2661a56fb2aa13b4d8a29.jpg",
+    "https://telegra.ph/file/af9ce1fe9aeaa0a7fbdda.jpg",
     "https://telegra.ph/file/e97715885d0a0cfbddaaa.mp4",
-    "https://telegra.ph/file/943bb99829ec526c3f99a.mp4"
+    "https://telegra.ph/file/228532dfe9b7d9f00eaac.jpg"
 ]
 
 STICKERS = [
