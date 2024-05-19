@@ -19,7 +19,7 @@ def get_animation(api_token, animation_type):
         return None
 
 # Command handlers for various animations
-@app.on_message(filters.command(["punch", "slap", "lick", "kill", "kick", "hug", "bite", "kiss", "highfive", "die", "run", "shoot", "dance"]) & ~filters.forwarded & ~filters.via_bot)
+@app.on_message(filters.command(["punch", "slap", "hide", "kill", "kick", "hug", "bite", "hate", "highfive", "die", "run", "shoot", "dance"]) & ~filters.forwarded & ~filters.via_bot)
 def animation_command(client, message):
     try:
         sender = message.from_user.mention(style='markdown')
@@ -28,12 +28,12 @@ def animation_command(client, message):
         commands = {
             "punch": {"emoji": "💥", "text": "punched"},
             "slap": {"emoji": "😒", "text": "slapped"},
-            "lick": {"emoji": "😛", "text": "licked"},
+            "hide": {"emoji": "😛", "text": "hidden"},
             "kill": {"emoji": "😵", "text": "killed"},
             "kick": {"emoji": "😠", "text": "kicked"},
             "hug": {"emoji": "🤗", "text": "hugged"},
             "bite": {"emoji": "😈", "text": "bit"},
-            "kiss": {"emoji": "😘", "text": "kissed"},
+            "hate": {"emoji": "😘", "text": "hatred"},
             "highfive": {"emoji": "🙌", "text": "high-fived"},
             "die": {"emoji": "💀", "text": "died"},
             "run": {"emoji": "🏃", "text": "ran"},
@@ -49,7 +49,7 @@ def animation_command(client, message):
             msg = f"{sender} {commands[command]['text']} {target}! {commands[command]['emoji']}"
             message.reply_animation(animation=gif_url, caption=msg)
         else:
-            message.reply_text("Couldn't retrieve the animation. Please try again.")
+            message.reply_text("Antha marri onum ialiyeee. yenna panalam 🤔.")
         
     except Exception as e:
         message.reply_text(f"An unexpected error occurred: {str(e)}")
