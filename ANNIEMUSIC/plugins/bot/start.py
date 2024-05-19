@@ -24,27 +24,27 @@ from ANNIEMUSIC.utils.database import (
 from ANNIEMUSIC.utils.decorators.language import LanguageStart
 from ANNIEMUSIC.utils.formatters import get_readable_time
 from ANNIEMUSIC.utils.inline import help_pannel, private_panel, start_panel
-from config import BANNED_USERS, AYUVV
+from config import BANNED_USERS, AYUV
 from strings import get_string
 
 ANNIE_VID = [
-    "https://telegra.ph/file/c7fc58423bbdac8159654.mp4",
-    "https://telegra.ph/file/cebc25829d99851b76b99.jpg",
-    "https://telegra.ph/file/cd996463de11729bc12ed.mp4",
-    "https://telegra.ph/file/48aaf9a2343f61a037a26.mp4",
-    "https://telegra.ph/file/6db754de9707eee737345.mp4",
-    "https://telegra.ph/file/ecc9233d3f09286fa560a.mp4",
-    "https://telegra.ph/file/2661a56fb2aa13b4d8a29.jpg",
-    "https://telegra.ph/file/af9ce1fe9aeaa0a7fbdda.jpg",
-    "https://telegra.ph/file/5b642532b9f863fd999d4.mp4",
-    "https://telegra.ph/file/ada8bce9b0602efb4a2b4.jpg"
+    "https://telegra.ph/file/9b7e1b820c72a14d90be7.mp4",
+    "https://telegra.ph/file/a4d90b0cb759b67d68644.mp4",
+    "https://telegra.ph/file/72f349b1386d6d9374a38.mp4",
+    "https://telegra.ph/file/2b75449612172a96d4599.mp4",
+    "https://telegra.ph/file/b3ac2d77205d5ded860de.mp4",
+    "https://telegra.ph/file/58ae4ac86ef70dc8c8f6a.mp4",
+    "https://telegra.ph/file/c6c1ac9aee4192a8a3747.mp4",
+    "https://telegra.ph/file/55c840c8eba0555318f0d.mp4",
+    "https://telegra.ph/file/e97715885d0a0cfbddaaa.mp4",
+    "https://telegra.ph/file/943bb99829ec526c3f99a.mp4"
 ]
 
 STICKERS = [
-    "CAACAgIAAxkBAAEMJddmShoWF-pBcBjZci_BXp8C-pJwoAACfzwAAp1BAUgvZiS7bQAB1VA1BA",
-    "CAACAgUAAxkBAAEMJd1mSho1Qx73wdLdRmdP6nrhqW2kewACJgwAAopq8FU4HIZnH51dqDUE",
-    "CAACAgUAAxkBAAEMJd9mShpPbdal7WLw6Hlx35toVferNQACkQQAAiQRAVcenyI_tCbFdjUE",
-    "CAACAgUAAxkBAAEMJeFmShqdR_CLJI0hmaAb2ZVreAAB4g4AArAOAAL-dCFV-9z6DwqfHUE1BA",
+    "CAACAgUAAx0Cd6nKUAACASBl_rnalOle6g7qS-ry-aZ1ZpVEnwACgg8AAizLEFfI5wfykoCR4h4E",
+    "CAACAgUAAx0CfL_LsAACCSRl_oru7uW8WAt3-L1pYQWe_1mxawACQw8AAj78MVeb3v2OFvEnNB4E",
+    "CAACAgEAAx0Cd6nKUAACATVl_rtAi9KCVQf8vcUC4FMDUfLP8wACHQEAAlEpDTnhphyRDaTrPR4E",
+    "CAACAgUAAx0Cd6nKUAACATJl_rsEJOsaaPSYGhU7bo7iEwL8AAPMDgACu2PYV8Vb8aT4_HUPHgQ",
 
 ]
 
@@ -75,7 +75,7 @@ async def start_pm(client, message: Message, _):
                     text=f"{message.from_user.mention} ᴊᴜsᴛ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ ᴛᴏ ᴄʜᴇᴄᴋ <b>sᴜᴅᴏʟɪsᴛ</b>.\n\n<b>ᴜsᴇʀ ɪᴅ :</b> <code>{message.from_user.id}</code>\n<b>ᴜsᴇʀɴᴀᴍᴇ :</b> @{message.from_user.username}",
                 )
         elif name[0:3] == "inf":
-            m = await message.reply_text("❤️‍🔥")
+            m = await message.reply_text("🔎")
             query = str(name).replace("info_", "", 1)
             query = f"https://www.youtube.com/watch?v={query}"
             results = VideosSearch(query, limit=1)
@@ -120,7 +120,7 @@ async def start_pm(client, message: Message, _):
         UP, CPU, RAM, DISK = await bot_sys_stats()
         await message.reply_video(
             random.choice(ANNIE_VID),
-            caption=random.choice(AYUVV).format(message.from_user.mention, app.mention, UP, DISK, CPU, RAM, served_users, served_chats),
+            caption=random.choice(AYUV).format(message.from_user.mention, app.mention, UP, DISK, CPU, RAM, served_users, served_chats),
             reply_markup=InlineKeyboardMarkup(out),
         )
         if await is_on_off(2):
