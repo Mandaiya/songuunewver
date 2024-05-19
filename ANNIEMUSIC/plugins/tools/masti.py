@@ -15,7 +15,7 @@ ACCEPTED = "https://telegra.ph/file/ba50a01bc7f4f7f20c6c1.mp4"
 CUTIE = "https://graph.org/file/24375c6e54609c0e4621c.mp4"
 
 ####### 
-########  CUTE
+########  CUTIE
 @app.on_message(filters.command("cute"))
 async def cutie(_, message):
     if not message.reply_to_message:
