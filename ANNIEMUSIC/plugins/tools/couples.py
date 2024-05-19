@@ -39,7 +39,7 @@ async def ctest(_, message):
     try:
      #  is_selected = await get_couple(cid, today)
      #  if not is_selected:
-         msg = await message.reply_text("🦋")
+         msg = await message.reply_text("🏹")
          #GET LIST OF USERS
          list_of_users = []
 
@@ -96,11 +96,12 @@ async def ctest(_, message):
          img.save(f'test_{cid}.png')
     
          TXT = f"""
-**𝐓ᴏᴅᴀʏ's 𝐒ᴇʟᴇᴄᴛᴇᴅ 𝐂ᴏᴜᴘʟᴇs 🎉 :
+**𝐓ᴏᴅᴀʏ's 𝐂ᴏᴜᴘʟᴇs - ℕᴀʟᴀ 𝕜ᴀᴀʟᴀᴍ ℙᴏoʀᴀᴋᴀ ℙᴏɢᴜᴛʜᴜᴜ 🎉 : 
 ✧══════•❁♡︎❁•══════✧
-{N1} + {N2} = 💗
+{N1} + {N2} = 😍
 ✧══════•❁♡︎❁•══════✧
-𝐍ᴇxᴛ 𝐂ᴏᴜᴘʟᴇs 𝐖ɪʟʟ 𝐁ᴇ 𝐒ᴇʟᴇᴄᴛᴇᴅ 𝐎ɴ {tomorrow} !!**
+𝐍ᴇxᴛ 𝐂ᴏᴜᴘʟᴇs 𝐖ɪʟʟ 𝐁ᴇ 𝐒ᴇʟᴇᴄᴛᴇᴅ 𝐎ɴ {tomorrow} !!
+一═デ︻ 𝗡αℓιкυ 𝙔єηηα ηυ 𝙋ααρσм ︻デ═一**
 """
     
          await message.reply_photo(f"test_{cid}.png", caption=TXT)
