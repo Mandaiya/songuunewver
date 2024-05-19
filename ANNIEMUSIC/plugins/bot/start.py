@@ -41,10 +41,10 @@ ANNIE_VID = [
 ]
 
 STICKERS = [
-    "CAACAgUAAx0Cd6nKUAACASBl_rnalOle6g7qS-ry-aZ1ZpVEnwACgg8AAizLEFfI5wfykoCR4h4E",
-    "CAACAgUAAx0CfL_LsAACCSRl_oru7uW8WAt3-L1pYQWe_1mxawACQw8AAj78MVeb3v2OFvEnNB4E",
-    "CAACAgEAAx0Cd6nKUAACATVl_rtAi9KCVQf8vcUC4FMDUfLP8wACHQEAAlEpDTnhphyRDaTrPR4E",
-    "CAACAgUAAx0Cd6nKUAACATJl_rsEJOsaaPSYGhU7bo7iEwL8AAPMDgACu2PYV8Vb8aT4_HUPHgQ",
+    "CAACAgIAAxkBAAEMJddmShoWF-pBcBjZci_BXp8C-pJwoAACfzwAAp1BAUgvZiS7bQAB1VA1BA",
+    "CAACAgUAAxkBAAEMJd1mSho1Qx73wdLdRmdP6nrhqW2kewACJgwAAopq8FU4HIZnH51dqDUE",
+    "CAACAgUAAxkBAAEMJd9mShpPbdal7WLw6Hlx35toVferNQACkQQAAiQRAVcenyI_tCbFdjUE",
+    "CAACAgUAAxkBAAEMJeFmShqdR_CLJI0hmaAb2ZVreAAB4g4AArAOAAL-dCFV-9z6DwqfHUE1BA",
 
 ]
 
@@ -75,7 +75,7 @@ async def start_pm(client, message: Message, _):
                     text=f"{message.from_user.mention} ᴊᴜsᴛ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ ᴛᴏ ᴄʜᴇᴄᴋ <b>sᴜᴅᴏʟɪsᴛ</b>.\n\n<b>ᴜsᴇʀ ɪᴅ :</b> <code>{message.from_user.id}</code>\n<b>ᴜsᴇʀɴᴀᴍᴇ :</b> @{message.from_user.username}",
                 )
         elif name[0:3] == "inf":
-            m = await message.reply_text("🔎")
+            m = await message.reply_text("❤️‍🔥")
             query = str(name).replace("info_", "", 1)
             query = f"https://www.youtube.com/watch?v={query}"
             results = VideosSearch(query, limit=1)
