@@ -6,7 +6,7 @@ from config import BOT_USERNAME
 
 @app.on_message(filters.command(["genpassword", 'genpw']))
 async def password(bot, update):
-    message = await update.reply_text(text="Pʀᴏᴄᴇꜱꜱɪɴɢ..")
+    message = await update.reply_text(text="ρяєραяιηg тнє ραѕѕωσя∂..")
     password = "abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+".lower()
     if len(update.command) > 1:
         qw = update.text.split(" ", 1)[1]
