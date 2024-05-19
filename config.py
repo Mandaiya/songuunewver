@@ -13,15 +13,15 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Specify where to get the following credentials
 OWNER_USERNAME = getenv("OWNER_USERNAME", "soupboy_single")
-BOT_USERNAME = getenv("BOT_USERNAME", "Annie_Music_Robo")
-BOT_NAME = getenv("BOT_NAME", "˹𝐀ɴɴɪᴇ ✘ 𝙼ᴜsɪᴄ˼ ♪")
-ASSUSERNAME = getenv("ASSUSERNAME", "musicXannie")
+BOT_USERNAME = getenv("BOT_USERNAME", "@SVDsinger_bot")
+BOT_NAME = getenv("BOT_NAME", "SVD [ ] Music ♪")
+ASSUSERNAME = getenv("ASSUSERNAME", "SVDgamerss")
 EVALOP = list(map(int, getenv("EVALOP", "961156494 5526098843").split()))
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-LOGGER_ID = int(getenv("LOGGER_ID", -1002014167331))
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb://clve73lfu001ha4me1al6gw90:UTfT7DjJGjwyvbdXaM1hDrVj@104.251.218.202:9013/?readPreference=primary&ssl=false")
+LOGGER_ID = int(getenv("LOGGER_ID", -1001743709729))
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 50000))
 # External APIs - Get these from their respective providers
-GPT_API = getenv("GPT_API")
+GPT_API = getenv("GPT_API", "sk-proj-mywH9SfPWQuT2QhGLhKkT3BlbkFJUafYpIlrEpoYbz9rcy8L")
 PLAYHT_API = getenv("PLAYHT_API")
 OWNER_ID = int(getenv("OWNER_ID", 655594746))
 
