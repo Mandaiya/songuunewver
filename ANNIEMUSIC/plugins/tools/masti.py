@@ -73,7 +73,7 @@ async def hot(_, message):
 
     mention = f"[{user_name}](tg://user?id={str(user_id)})"
     mm = random.randint(1, 100)
-    GAMING = f"🔥 Nee {mention} yeppo {mm}% da gamer aane!"
+    GAMING = f"🔥 Nee {mention} yeppo {mm}%   da gamer aane!"
 
     await app.send_document(
         chat_id=message.chat.id,
@@ -96,7 +96,7 @@ async def sexy(_, message):
 
     mention = f"[{user_name}](tg://user?id={str(user_id)})"
     mm = random.randint(1, 100)
-    COOL = f" 🤟 {mention} ɪꜱ {mm}% ❀ ƇΘΘȴ ❀!"
+    COOL = f" 🤟 {mention} ɪꜱ {mm}%  ❀ ƇΘΘȴ ❀!"
     await app.send_document (
         chat_id=message.chat.id,
         document=KOOLU,
@@ -117,7 +117,7 @@ async def gay(_, message):
 
     mention = f"[{user_name}](tg://user?id={str(user_id)})"
     mm = random.randint(1, 100)
-    KOLARU = f" 🍷 {mention} ɪꜱ {mm}% 𝐊𝐨𝐥𝐚𝐫𝐮 !"
+    KOLARU = f" 🍷 {mention} ɪꜱ {mm}%   𝐊𝐨𝐥𝐚𝐫𝐮 !"
     await app.send_document (
         chat_id=message.chat.id,
         document=KOLARUH,
@@ -138,7 +138,7 @@ async def lesbian(_, message):
 
     mention = f"[{user_name}](tg://user?id={str(user_id)})"
     mm = random.randint(1, 100)
-    URUTTU = f" 💜 {mention} ɪꜱ {mm}% ʟᴇꜱʙɪᴀɴ!"
+    URUTTU = f" 💜 {mention} ɪꜱ {mm}%  Urrutran sir ivan!"
     await app.send_document (
         chat_id=message.chat.id,
         document=URUTTUH,
@@ -160,7 +160,7 @@ async def boob(_, message):
 
     mention = f"[{user_name}](tg://user?id={str(user_id)})"
     mm = random.randint(1, 100)
-    NOI = f"  {mention}ꜱ VENA VENAAH VEH VENA {mm} NOI-NOI "
+    NOI = f"  {mention}ꜱ VENA VENAAH VEH VENA {mm}% NOI-NOI "
     await app.send_document (
         chat_id=message.chat.id,
         document=NO,
