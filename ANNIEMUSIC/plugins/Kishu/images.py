@@ -23,7 +23,7 @@ async def pinterest(_, message):
                   
           media_group.append(InputMediaPhoto(media=url))
           count += 1
-          await msg.edit(f"=> Annie aww sᴄʀᴀᴘᴇᴅ ɪᴍᴀɢᴇs {count}")
+          await msg.edit(f"=> Hyper aww sᴄʀᴀᴘᴇᴅ ɪᴍᴀɢᴇs {count}")
 
      try:
         
