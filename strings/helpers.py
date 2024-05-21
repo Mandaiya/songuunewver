@@ -210,20 +210,6 @@ HELP_18 = """
  /cancel or /alloff  ➠ ᴛᴏ ᴄᴀɴᴄᴇʟ ᴍᴇɴᴛɪᴏɴ.
  /tagall  ➠  ғᴏʀ ʀᴀɴᴅᴏᴍʟʏ ғᴜɴɴʏ ᴛᴀɢs 😁.
  /tagoff or /tagstop   ➠  sᴛᴏᴘ ᴍᴇɴᴛɪᴏɴɪɴɢ ғᴜɴɴʏ ᴛᴀɢs.
- /gmtag ➠ ғᴏʀ ᴍᴏʀɴɪɴɢ ᴡɪsʜᴇs🥰.
- /gmstop  ➠ sᴛᴏᴘ ᴍᴏʀɴɪɴɢ ᴡɪsʜᴇs.
- /gntag  ➠ ғᴏʀ ɴɪɢʜᴛ ᴡɪsʜᴇs 😴.
- /gnstop  ➠ sᴛᴏᴘ ɴɪɢʜᴛ ᴡɪsʜᴇs😴.
- /hitag  ➠  ᴛᴀɢ ᴍᴇᴍʙᴇʀs ɪɴ ʜɪɴᴅɪ ǫᴜᴏᴛᴇs.
- /histop ➠  sᴛᴏᴘ ʜɪɴᴅɪ ǫᴜᴏᴛᴇs.
- /entag ➠ ᴛᴀɢ ɪɴ ᴇɴɢʟɪsʜ...
- /entop ➠ ᴛᴏ sᴛᴏᴘ ᴇɴʟɪsʜ ᴛᴀɢ..
- /bntag ➠ ᴛᴏ ᴛᴀɢ ɪɴ ʙᴇɴɢᴀʟɪ...
- /bnstop ➠ sᴛᴏᴘ ʙᴇɴɢᴀʟɪ ᴛᴀɢ..
- /lifetag  ➠ ᴛᴀɢ ᴍᴇᴍʙᴇʀs ɪɴ ᴇɴɢʟɪsʜ ǫᴜᴏᴛᴇs.
- /lifestop  ➠  sᴛᴏᴘ ᴇɴɢʟɪsʜ ǫᴜᴏᴛᴇs.
- /shayari   ➠ ᴛᴀɢ ᴀʟʟ ᴍᴇᴍʙᴇʀs ᴡɪᴛʜ sʜᴀʏʀɪ😜.
- /shayarioff  ➠ sᴛᴏᴘ ᴍᴇɴᴛɪᴏɴɪɴɢ sʜᴀʏʀɪ.
  
 ✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
 
