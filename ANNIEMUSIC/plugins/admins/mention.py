@@ -79,4 +79,4 @@ async def cancel_spam(client, message):
             spam_chats.remove(message.chat.id)
         except:
             pass
-        return await message.reply("**🦋ᴛᴀɢ ʀᴏᴋɴᴇ ᴡᴀʟᴇ ᴋɪ ᴍᴀᴀ ᴋᴀ ʙʜᴀʀᴏsᴀ ᴊᴇᴇᴛᴜ.....🫠**")
+        return await message.reply("**𝙽𝚊𝚗𝚍𝚛𝚒𝚐𝚊𝚕 𝚞𝚜𝚎 𝚙𝚊𝚗𝚗𝚊𝚝𝚑𝚞𝚔𝚞..🫠 meendum varuga**")
