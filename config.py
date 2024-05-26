@@ -17,7 +17,7 @@ BOT_USERNAME = getenv("BOT_USERNAME", "SVDsinger_bot")
 BOT_NAME = getenv("BOT_NAME", "˹SVD | | Music˼♪")
 ASSUSERNAME = getenv("ASSUSERNAME", "SVDgamerss")
 EVALOP = list(map(int, getenv("EVALOP", "961156494").split()))
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb://clve73lfu001ha4me1al6gw90:UTfT7DjJGjwyvbdXaM1hDrVj@104.251.218.202:9013/?readPreference=primary&ssl=false")
+MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOGGER_ID = int(getenv("LOGGER_ID", -1001743709729))
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # External APIs - Get these from their respective providers
