@@ -1,13 +1,13 @@
-import os 
+import os
 import random
-from datetime import datetime 
+from datetime import datetime
 from telegraph import upload_file
-from PIL import Image , ImageDraw
+from PIL import Image, ImageDraw
 from pyrogram import *
 from pyrogram.types import *
 from pyrogram.enums import *
 
-#BOT FILE NAME
+# BOT FILE NAME
 from ANNIEMUSIC import app as app
 from ANNIEMUSIC.mongo.couples_db import _get_image, get_couple
 
@@ -16,7 +16,6 @@ def dt():
     dt_string = now.strftime("%d/%m/%Y %H:%M")
     dt_list = dt_string.split(" ")
     return dt_list
-    
 
 def dt_tom():
     a = (
@@ -31,116 +30,109 @@ def dt_tom():
 tomorrow = str(dt_tom())
 today = str(dt()[0])
 
-@app.on_message(filters.command("couples"))
-async def ctest(_, message):
+# List of GIF URLs
+gifs = [
+    "https://telegra.ph/file/96d3ce385c179480af3c7.mp4",
+    "https://telegra.ph/file/6626ec9526be31e13e613.mp4",
+    "https://telegra.ph/file/402f37120d08b88b07877.mp4",
+    "https://telegra.ph/file/6a1e05c8d75a85c5713b6.mp4",
+    "https://telegra.ph/file/0aa2dc0e5d0c6112db947.mp4",
+    "https://telegra.ph/file/78755006bc11bf8507197.mp4",
+    "https://telegra.ph/file/16e66c57cfa20366047ed.mp4",
+    # Add more GIF URLs as needed
+]
+
+@app.on_message(filters.command("friends"))
+async def ftest(_, message):
     cid = message.chat.id
     if message.chat.type == ChatType.PRIVATE:
         return await message.reply_text("This command only works in groups.")
     try:
-     #  is_selected = await get_couple(cid, today)
-     #  if not is_selected:
-         msg = await message.reply_text("🏹")
-         #GET LIST OF USERS
-         list_of_users = []
+        msg = await message.reply_text("✅")
+        # GET LIST OF USERS
+        list_of_users = []
 
-         async for i in app.get_chat_members(message.chat.id, limit=50):
-             if not i.user.is_bot:
-               list_of_users.append(i.user.id)
+        async for i in app.get_chat_members(message.chat.id, limit=50):
+            if not i.user.is_bot:
+                list_of_users.append(i.user.id)
 
-         c1_id = random.choice(list_of_users)
-         c2_id = random.choice(list_of_users)
-         while c1_id == c2_id:
-              c1_id = random.choice(list_of_users)
+        c1_id = random.choice(list_of_users)
+        c2_id = random.choice(list_of_users)
+        while c1_id == c2_id:
+            c1_id = random.choice(list_of_users)
 
+        photo1 = (await app.get_chat(c1_id)).photo
+        photo2 = (await app.get_chat(c2_id)).photo
 
-         photo1 = (await app.get_chat(c1_id)).photo
-         photo2 = (await app.get_chat(c2_id)).photo
- 
-         N1 = (await app.get_users(c1_id)).mention 
-         N2 = (await app.get_users(c2_id)).mention
-         
-         try:
+        N1 = (await app.get_users(c1_id)).mention
+        N2 = (await app.get_users(c2_id)).mention
+
+        try:
             p1 = await app.download_media(photo1.big_file_id, file_name="pfp.png")
-         except Exception:
+        except Exception:
             p1 = "ANNIEMUSIC/assets/upic.png"
-         try:
+        try:
             p2 = await app.download_media(photo2.big_file_id, file_name="pfp1.png")
-         except Exception:
+        except Exception:
             p2 = "ANNIEMUSIC/assets/upic.png"
-            
-         img1 = Image.open(f"{p1}")
-         img2 = Image.open(f"{p2}")
 
-         img = Image.open("ANNIEMUSIC/assets/annie/ANNIECP.png")
+        img1 = Image.open(f"{p1}")
+        img2 = Image.open(f"{p2}")
 
-         img1 = img1.resize((486,486))
-         img2 = img2.resize((486,486))
+        img = Image.open("ANNIEMUSIC/assets/annie/ANNIECP.png")
 
-         mask = Image.new('L', img1.size, 0)
-         draw = ImageDraw.Draw(mask) 
-         draw.ellipse((0, 0) + img1.size, fill=255)
+        img1 = img1.resize((486,486))
+        img2 = img2.resize((486,486))
 
-         mask1 = Image.new('L', img2.size, 0)
-         draw = ImageDraw.Draw(mask1) 
-         draw.ellipse((0, 0) + img2.size, fill=255)
+        mask = Image.new('L', img1.size, 0)
+        draw = ImageDraw.Draw(mask)
+        draw.ellipse((0, 0) + img1.size, fill=255)
 
+        mask1 = Image.new('L', img2.size, 0)
+        draw = ImageDraw.Draw(mask1)
+        draw.ellipse((0, 0) + img2.size, fill=255)
 
-         img1.putalpha(mask)
-         img2.putalpha(mask1)
+        img1.putalpha(mask)
+        img2.putalpha(mask1)
 
-         draw = ImageDraw.Draw(img)
+        draw = ImageDraw.Draw(img)
 
-         img.paste(img1, (410, 500), img1)
-         img.paste(img2, (1395, 500), img2)
+        img.paste(img1, (410, 500), img1)
+        img.paste(img2, (1395, 500), img2)
 
-         img.save(f'test_{cid}.png')
-    
-         TXT = f"""
-**𝐓ᴏᴅᴀʏ's 𝐂ᴏᴜᴘʟᴇs - ℕᴀʟᴀ 𝕜ᴀᴀʟᴀᴍ ℙᴏoʀᴀᴋᴀ ℙᴏɢᴜᴛʜᴜᴜ 🎉 : 
-✧══════•❁♡︎❁•══════✧
-{N1} + {N2} = 😍
-✧══════•❁♡︎❁•══════✧
-𝐍ᴇxᴛ 𝐂ᴏᴜᴘʟᴇs 𝐖ɪʟʟ 𝐁ᴇ 𝐒ᴇʟᴇᴄᴛᴇᴅ 𝐎ɴ {tomorrow} !!
-一═デ︻ 𝗡αℓιкυ 𝙔єηηα ηυ 𝙋ααρσм ︻デ═一**
+        img.save(f'test_{cid}.png')
+
+        TXT = f"""
+      **𝐓ᴏᴅᴀʏ's 𝐅ʀɪᴇɴᴅs 🎉 : 
+           ɄⱤɄ₱₳Đ₳ ₥₳₮₳₦₲₳ 🙊 
+     [HY]✧═════•❁♡︎❁•═════✧[PER]
+           {N1} + {N2} = 😍
+       (@@)✧════•❁♡︎❁•════✧(oo)
+      𝐍ᴇxᴛ 𝐅ʀɪᴇɴᴅs 𝐖ɪʟʟ 𝐁ᴇ 
+         𝐒ᴇʟᴇᴄᴛᴇᴅ 𝐎ɴ {tomorrow} !!
+      一═デ︻ 𝗡αℓιкυ 𝙔єηηα ηυ 𝙋ααρσм ︻デ═一**
 """
-    
-         await message.reply_photo(f"test_{cid}.png", caption=TXT)
-         await msg.delete()
-         a = upload_file(f"test_{cid}.png")
-         for x in a:
-           img = "https://graph.org/" + x
-           couple = {"c1_id": c1_id, "c2_id": c2_id}
-          # await save_couple(cid, today, couple, img)
-    
-         
-      # elif is_selected:
-      #   msg = await message.reply_text("𝐆ᴇᴛᴛɪɴɢ 𝐓ᴏᴅᴀʏs 𝐂ᴏᴜᴘʟᴇs 𝐈ᴍᴀɢᴇ...")
-      #   b = await _get_image(cid)
-       #  c1_id = int(is_selected["c1_id"])
-       #  c2_id = int(is_selected["c2_id"])
-       #  c1_name = (await app.get_users(c1_id)).first_name
-        # c2_name = (await app.get_users(c2_id)).first_name
-         
-      #   TXT = f"""
-#**𝐓ᴏᴅᴀʏ's 𝐒ᴇʟᴇᴄᴛᴇᴅ 𝐂ᴏᴜᴘʟᴇs 🎉 :
-#➖➖➖➖➖➖➖➖➖➖➖➖
-#[{c1_name}](tg://openmessage?user_id={c1_id}) + [{c2_name}](tg://openmessage?user_id={c2_id}) = ❣️
-#➖➖➖➖➖➖➖➖➖➖➖➖
-#𝐍ᴇxᴛ 𝐂ᴏᴜᴘʟᴇs 𝐖ɪʟʟ 𝐁ᴇ 𝐒ᴇʟᴇᴄᴛᴇᴅ 𝐎ɴ {tomorrow} !!**
-#"""
- #        await message.reply_photo(b, caption=TXT)
-        # await msg.delete()
+
+        # Select and send a random GIF
+        gif_url = random.choice(gifs)
+        await message.reply_animation(gif_url, caption=TXT)
+        await msg.delete()
+        a = upload_file(f"test_{cid}.png")
+        for x in a:
+            img = "https://graph.org/" + x
+            friends = {"c1_id": c1_id, "c2_id": c2_id}
+            # await save_couple(cid, today, friends, img)
+
     except Exception as e:
         print(str(e))
     try:
-      os.remove(f"./downloads/pfp1.png")
-      os.remove(f"./downloads/pfp2.png")
-      os.remove(f"test_{cid}.png")
+        os.remove(f"./downloads/pfp1.png")
+        os.remove(f"./downloads/pfp2.png")
+        os.remove(f"test_{cid}.png")
     except Exception:
-       pass
-         
+        pass
 
-__mod__ = "COUPLES"
+__mod__ = "FRIENDS"
 __help__ = """
-**» /couples** - Get Todays Couples Of The Group In Interactive View
+**» /friends** - Get Todays Friends Of The Group In Interactive View
 """
