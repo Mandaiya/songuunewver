@@ -131,7 +131,7 @@ TAGMES = [ " yunnaku lam yen da intha velai - venna thalaiya🥱 ",
 async def mentionall(client, message):
     chat_id = message.chat.id
     if message.chat.type == ChatType.PRIVATE:
-        return await message.reply("𝐆𝐫𝐩 𝐥𝐚 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐩𝐨𝐝𝐮𝐧𝐠𝐚.")
+        return await message.reply("𝐆𝐫𝐩 𝐥𝐚 Use 𝐩𝐨𝐝𝐮𝐧𝐠𝐚 /tagall functions eh")
 
     is_admin = False
     try:
@@ -156,11 +156,11 @@ async def mentionall(client, message):
         mode = "text_on_reply"
         msg = message.reply_to_message
         if not msg:
-            return await message.reply("/tagall  𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 / 𝐑𝐞𝐩𝐥𝐲 𝐀𝐧𝐲 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐍𝐞𝐱𝐭 𝐓𝐢𝐦𝐞 ...")
+            return await message.reply("/tagall  𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 \n\nTo stop the tagging process, use the commands /tagoff or /tagstop.. ...")
     else:
-        return await message.reply("/tagall  𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 / 𝐑𝐞𝐩𝐥𝐲 𝐀𝐧𝐲 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐍𝐞𝐱𝐭 𝐓𝐢𝐦𝐞 ..")
+        return await message.reply("/tagall  𝐓𝐲𝐩𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬 \n\nTo stop the tagging process, use the commands /tagoff or /tagstop.. ..")
     if chat_id in spam_chats:
-        return await message.reply("𝐏𝐥𝐞𝐚𝐬𝐞 𝐀𝐭 𝐅𝐢𝐫𝐬𝐭 𝐒𝐭𝐨𝐩 𝐑𝐮𝐧𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐜𝐞𝐬𝐬 ...")
+        return await message.reply("ADA konjam porumaiya irrunga - ooditu irrukula ...")
     spam_chats.append(chat_id)
     usrnum = 0
     usrtxt = ""
@@ -189,7 +189,7 @@ async def mentionall(client, message):
 @app.on_message(filters.command(["tagoff", "tagstop"]))
 async def cancel_spam(client, message):
     if not message.chat.id in spam_chats:
-        return await message.reply("𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐈'𝐦 𝐍𝐨𝐭 ..")
+        return await message.reply("Innum antha /tagall yarum start panala - neenga pannungaleey 😂..")
     is_admin = False
     try:
         participant = await client.get_chat_member(message.chat.id, message.from_user.id)
@@ -208,4 +208,8 @@ async def cancel_spam(client, message):
             spam_chats.remove(message.chat.id)
         except:
             pass
-        return await message.reply("**𝙽𝚊𝚗𝚍𝚛𝚒𝚐𝚊𝚕 𝚞𝚜𝚎 𝚙𝚊𝚗𝚗𝚊𝚝𝚑𝚞𝚔𝚞🫠 meendum varga**")
+        return await message.reply("**𝙽𝚊𝚗𝚍𝚛𝚒𝚐𝚊𝚕 𝚞𝚜𝚎 𝚙𝚊𝚗𝚗𝚊𝚝𝚑𝚞𝚔𝚞🫠 meendum varuga**\n\nTo stop the tagging process, use the commands /tagoff or /tagstop.")
+
+@app.on_message(filters.command(["stop"]))
+async def inform_stop_commands(client, message):
+    await message.reply("To stop the tagging process initiated by /tagall, you can use either /tagoff or /tagstop commands.")
