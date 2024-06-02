@@ -91,6 +91,7 @@ GIFS = {
         "https://telegra.ph/file/6056059e6c7a714e6b0ec.mp4",
         "https://telegra.ph/file/c2403e501775abb2811ff.mp4",
         "https://telegra.ph/file/eff008dab108eb43a062d.mp4",
+        "https://telegra.ph/file/d577cd3b7c4c26223b5aa.mp4",
     ],
     "shoot": [
         "https://telegra.ph/file/a3962c0ea6b7d687286f6.mp4",
