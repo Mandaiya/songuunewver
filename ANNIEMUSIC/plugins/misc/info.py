@@ -13,10 +13,9 @@ import random
 
 # List of Annie's photos
 anniephoto = [
-    "https://telegra.ph/file/07fd9e0e34bc84356f30d.jpg",
-    "https://telegra.ph/file/3c4de59511e179018f902.jpg",
-    "https://telegra.ph/file/07fd9e0e34bc84356f30d.jpg",
-    "https://telegra.ph/file/3c4de59511e179018f902.jpg"
+    "https://telegra.ph/file/a783640c916cbc6ae16ca.jpg",
+    "https://telegra.ph/file/ed0dacab126d5aee82c2f.jpg",
+    "https://telegra.ph/file/2cb8c255fbea785d04b1d.jpg",
 ]
 
 # Function to get font
@@ -63,7 +62,7 @@ async def get_userinfo_img(
     return path
 
 # Path to background image and font
-bg_path = "ANNIEMUSIC/assets/annie/AnnieNinfo.png"
+bg_path = "ANNIEMUSIC/assets/annie/USERINFOme.png"
 font_path = "ANNIEMUSIC/assets/annie/jarvisinf.ttf"
 
 # Text template for user info
@@ -89,13 +88,13 @@ async def userstatus(user_id):
         user = await app.get_users(user_id)
         x = user.status
         if x == enums.UserStatus.RECENTLY:
-            return "Recently."
+            return "Recently - inga than suthitu irrukan"
         elif x == enums.UserStatus.LAST_WEEK:
-            return "Last week."
+            return "Last week - ipo than oru 4 nallu munnadey parthen"
         elif x == enums.UserStatus.LONG_AGO:
-            return "Long time ago."
+            return "Long time ago - athu oru pala varusam ha irrukum"
         elif x == enums.UserStatus.OFFLINE:
-            return "Offline."
+            return "Offline - kaanama poitan"
         elif x == enums.UserStatus.ONLINE:
             return "Online."
     except:
