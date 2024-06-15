@@ -38,14 +38,14 @@ async def _whisper(_, inline_query):
                     title="⦿ Wʜɪsᴘᴇʀ ⦿",
                     description=f"Sᴇɴᴅ A Wʜɪsᴘᴇʀ Tᴏ {user.first_name}!",
                     input_message_content=InputTextMessageContent(f"⦿ Yᴏᴜ Aʀᴇ Sᴇɴᴅɪɴɢ A Wʜɪsᴘᴇʀ Tᴏ {user.first_name}.\n\nTʏᴘᴇ Uʀ Mᴇssᴀɢᴇ/Sᴇɴᴛᴇɴᴄᴇ."),
-                    thumb_url="https://telegra.ph/file/2c6d1a6f78eba6199933a.jpg",
+                    thumb_url="https://telegra.ph/file/5c9eb55002f1ff3f68e49.jpg",
                     reply_markup=whisper_btn
                 ),
                 InlineQueryResultArticle(
                     title="➤ Oɴᴇ-Tɪᴍᴇ Wʜɪsᴘᴇʀ",
                     description=f"Sᴇɴᴅ A Oɴᴇ-Tɪᴍᴇ Wʜɪsᴘᴇʀ Tᴏ {user.first_name}!",
                     input_message_content=InputTextMessageContent(f"☞ Yᴏᴜ Aʀᴇ Sᴇɴᴅɪɴɢ A Oɴᴇ-Tɪᴍᴇ Wʜɪsᴘᴇʀ Tᴏ {user.first_name}.\n\nTʏᴘᴇ Uʀ Mᴇssᴀɢᴇ/Sᴇɴᴇᴛᴇɴᴄᴇ."),
-                    thumb_url="https://telegra.ph/file/2c6d1a6f78eba6199933a.jpg",
+                    thumb_url="https://telegra.ph/file/5c9eb55002f1ff3f68e49.jpg",
                     reply_markup=one_time_whisper_btn
                 )
             ]
@@ -57,7 +57,7 @@ async def _whisper(_, inline_query):
                     title="⦿ Wʜɪsᴘᴇʀ ⦿",
                     description="Iɴᴠᴀʟɪᴅ Usᴇʀɴᴀᴍᴇ ᴏʀ Iᴅ!",
                     input_message_content=InputTextMessageContent("ɪɴᴠᴀʟɪᴅ Usᴇʀɴᴀᴍᴇ ᴏʀ Iᴅ!"),
-                    thumb_url="https://telegra.ph/file/2c6d1a6f78eba6199933a.jpg",
+                    thumb_url="https://telegra.ph/file/5c9eb55002f1ff3f68e49.jpg",
                     reply_markup=switch_btn
                 )
             ]
@@ -80,14 +80,14 @@ async def whispes_cb(_, query):
         except Unauthorized:
             pass
         
-        return await query.answer("Tʜɪs Wʜɪsᴘᴇʀ Is Nᴏᴛ Fᴏʀ Yᴏᴜ 𖣘︎", show_alert=True)
+        return await query.answer("Tʜɪs Secret is not meant for you --", show_alert=True)
     
     search_msg = f"{from_user}_{to_user}"
     
     try:
         msg = whisper_db[search_msg]
     except:
-        msg = "𖣘︎ Eʀʀᴏʀ!\n\nWʜɪsᴘᴇʀ Hᴀs Bᴇᴇɴ Dᴇʟᴇᴛᴇᴅ Fʀᴏᴍ Tʜᴇ Dᴀᴛᴀʙᴀsᴇ!"
+        msg = "𖣘-=- Eʀʀᴏʀ!\n\nWʜɪsᴘᴇʀ Hᴀs Bᴇᴇɴ Dᴇʟᴇᴛᴇᴅ Fʀᴏᴍ Tʜᴇ Dᴀᴛᴀʙᴀsᴇ!"
     
     SWITCH = InlineKeyboardMarkup([[InlineKeyboardButton("Gᴏ Iɴʟɪɴᴇ ➻", switch_inline_query_current_chat="")]])
     
@@ -103,8 +103,8 @@ async def in_help():
         InlineQueryResultArticle(
             title="⦿ Whisper ⦿",
             description=f"@Annie_X_music_bot [USERNAME | ID] [TEXT]",
-            input_message_content=InputTextMessageContent(f"**❍ Usage:**\n\n@Annie_X_music_bot (Target Username or ID) (Your Message).\n\n**Example:**\n@Annie_X_music_bot @username I Wanna Phuck You"),
-            thumb_url="https://telegra.ph/file/2c6d1a6f78eba6199933a.jpg",
+            input_message_content=InputTextMessageContent(f"**❍ Usage:**\n\n@SVDsinger_bot (Target Username or ID) (Your Message).\n\n**Example:**\n@SVDsinger_bot @username I Wanna Teach You"),
+            thumb_url="https://telegra.ph/file/5c9eb55002f1ff3f68e49.jpg",
             reply_markup=switch_btn
         )
     ]
