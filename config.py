@@ -16,10 +16,10 @@ OWNER_USERNAME = getenv("OWNER_USERNAME", "Soupboy_single")
 BOT_USERNAME = getenv("BOT_USERNAME", "SVDsinger_bot")
 BOT_NAME = getenv("BOT_NAME", "˹SVD | | Music˼♪")
 ASSUSERNAME = getenv("ASSUSERNAME", "SVDgamerss")
-EVALOP = list(map(int, getenv("EVALOP", "961156494").split()))
+EVALOP = list(map(int, getenv("EVALOP", "655594746").split()))
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOGGER_ID = int(getenv("LOGGER_ID", -1001743709729))
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 12000))
 # External APIs - Get these from their respective providers
 GPT_API = getenv("GPT_API")
 OWNER_ID = int(getenv("OWNER_ID", 655594746))
@@ -32,11 +32,11 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support and contact information - Provide your own support channels
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Hyper_networks_updates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Team_Hypers_Networks")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/smarhkarts_gAme")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Tamilchat_Aaniye_pudungaa_venam")
 
 # Server limits and configurations - These can be set based on your server configurations
-SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
+SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3600"))
 PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "2500"))
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
