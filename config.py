@@ -3,7 +3,7 @@ from os import getenv
 from dotenv import load_dotenv
 from pyrogram import filters
 
-# Load environment variables from .env file
+# Load environment variables from .env filee
 load_dotenv()
 
 # Telegram API credentials - Get these from the Telegram API website
