@@ -34,16 +34,14 @@ ANNIE_VID = [
     "https://telegra.ph/file/0bc40f80a86e4d5e4927c.mp4",
     "https://telegra.ph/file/c7fc58423bbdac8159654.mp4",
     "https://telegra.ph/file/cd996463de11729bc12ed.mp4",
-    "https://telegra.ph/file/e0198b8410594518d4030.mp4",
     "https://telegra.ph/file/6db754de9707eee737345.mp4",
     "https://telegra.ph/file/ecc9233d3f09286fa560a.mp4",
-    "https://telegra.ph/file/c8c06e386b78811c0d81b.mp4"
 ]
 
 STICKERS = [
     "CAACAgIAAxkBAAEMJddmShoWF-pBcBjZci_BXp8C-pJwoAACfzwAAp1BAUgvZiS7bQAB1VA1BA",
-    "CAACAgUAAxkBAAEMJd1mSho1Qx73wdLdRmdP6nrhqW2kewACJgwAAopq8FU4HIZnH51dqDUE",
-    "CAACAgUAAxkBAAEMJd9mShpPbdal7WLw6Hlx35toVferNQACkQQAAiQRAVcenyI_tCbFdjUE",
+    "CAACAgIAAxkBAAEMpp5mvgiFJPP5kGyLqvCVP_ve6CqhsQACmiIAAtRjwEtKt3-jnWu2WTUE",
+    "CAACAgIAAxkBAAEMpqBmvgi9kBzCSMiON59KhF5onNa-XQACKiEAAvSawUvA6cAGkGwSPzUE",
     "CAACAgUAAxkBAAEMJeFmShqdR_CLJI0hmaAb2ZVreAAB4g4AArAOAAL-dCFV-9z6DwqfHUE1BA",
 
 ]
