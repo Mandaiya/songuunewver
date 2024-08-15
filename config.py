@@ -13,10 +13,10 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Specify where to get the following credentials
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Soupboy_single")
-BOT_USERNAME = getenv("BOT_USERNAME", "SVDsinger_bot")
+BOT_USERNAME = getenv("BOT_USERNAME", "@Minisvd_bot")
 BOT_NAME = getenv("BOT_NAME", "˹SVD | | Music˼♪")
 ASSUSERNAME = getenv("ASSUSERNAME", "SVDgamerss")
-EVALOP = list(map(int, getenv("EVALOP", "655594746").split()))
+EVALOP = list(map(int, getenv("EVALOP", None).split()))
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOGGER_ID = int(getenv("LOGGER_ID", -1001743709729))
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 12000))
@@ -33,11 +33,11 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support and contact information - Provide your own support channels
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/smarhkarts_gAme")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Tamilchat_Aaniye_pudungaa_venam")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/EP_memes")
 
 # Server limits and configurations - These can be set based on your server configurations
-SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3600"))
-PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "2500"))
+SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "50"))
+PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "50"))
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
 SONG_DOWNLOAD_DURATION_LIMIT = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "9999999"))
@@ -81,10 +81,10 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://telegra.ph/file/c7fc58423bbdac8159654.mp4"
 )
 PING_VID_URL = getenv(
-    "PING_VID_URL", "https://telegra.ph/file/af9ce1fe9aeaa0a7fbdda.jpg"
+    "PING_VID_URL", "https://telegra.ph/file/81bc8a9d86de125e33720.mp4"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/049da2a0678db379dc6ca.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/9349a004446e5e94abd6b.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/ed478cfeb4e9a885733c0.mp4"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/e6015103d3258270d4f26.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e6015103d3258270d4f26.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/237dc61006b890ab9aba5.jpg"
