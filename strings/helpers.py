@@ -15,7 +15,7 @@ HELP_1 = """<b><u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_2 = """
 <b><u>ᴀᴜᴛʜ ᴜsᴇʀs :</b></u>
@@ -26,7 +26,7 @@ HELP_2 = """
 /unauth [ᴜsᴇʀɴᴀᴍᴇ/ᴜsᴇʀ_ɪᴅ] : ʀᴇᴍᴏᴠᴇ ᴀ ᴀᴜᴛʜ ᴜsᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ.
 /authusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴜᴛʜ ᴜsᴇʀs ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_3 = """
 <u><b>ʙʀᴏᴀᴅᴄᴀsᴛ ғᴇᴀᴛᴜʀᴇ</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs] :
@@ -42,7 +42,7 @@ HELP_3 = """
 
 <b>ᴇxᴀᴍᴩʟᴇ:</b> <code>/broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ</code>
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_4 = """<u><b>ᴄʜᴀᴛ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
 
@@ -52,7 +52,7 @@ HELP_4 = """<u><b>ᴄʜᴀᴛ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u
 /whitelistchat [ᴄʜᴀᴛ ɪᴅ] : ᴡʜɪᴛᴇʟɪsᴛ ᴛʜᴇ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛ.
 /blacklistedchat : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛs.
 
-☆✧✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+☆✧✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_5 = """
 <u><b>ʙʟᴏᴄᴋ ᴜsᴇʀs:</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
@@ -63,7 +63,7 @@ sᴛᴀʀᴛs ɪɢɴᴏʀɪɴɢ ᴛʜᴇ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴜsᴇʀ, 
 /unblock [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ] : ᴜɴʙʟᴏᴄᴋs ᴛʜᴇ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀ.
 /blockedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_6 = """
 <u><b>ᴄʜᴀɴɴᴇʟ ᴩʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs:</b></u>
@@ -78,16 +78,16 @@ HELP_6 = """
 /bass ➠ ʀᴇᴘʟʏ ᴛᴏ ᴀɴ ᴀᴜᴅɪᴏ ғɪʟᴇ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴀᴅᴅ ʙᴀss ɪɴ ᴀᴅᴜɪᴏ...
 /dj ➠ ʀᴇᴘʟʏ ᴛᴏ ᴀɴ ᴀᴜᴅɪᴏ ғɪʟᴇ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴀᴅᴅ ᴅᴊ ᴇғғᴇᴄᴛ ɪɴ ᴀᴅᴜɪᴏ...
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_7 = """
 <u><b>ɢʟᴏʙᴀʟ ʙᴀɴ ғᴇᴀᴛᴜʀᴇ</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs] :
 
-/gban [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ] : ɢʟᴏʙᴀʟʟʏ ʙᴀɴs ᴛʜᴇ ᴄʜᴜᴛɪʏᴀ ғʀᴏᴍ ᴀʟʟ ᴛʜᴇ sᴇʀᴠᴇᴅ ᴄʜᴀᴛs ᴀɴᴅ ʙʟᴀᴄᴋʟɪsᴛ ʜɪᴍ ғʀᴏᴍ ᴜsɪɴɢ ᴛʜᴇ ʙᴏᴛ.
-/ungban [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ] : ɢʟᴏʙᴀʟʟʏ ᴜɴʙᴀɴs ᴛʜᴇ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀ.
-/gbannedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀs.
+/𝐆ban [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ] : ɢʟᴏʙᴀʟʟʏ ʙᴀɴs ᴛʜᴇ ᴄʜᴜᴛɪʏᴀ ғʀᴏᴍ ᴀʟʟ ᴛʜᴇ sᴇʀᴠᴇᴅ ᴄʜᴀᴛs ᴀɴᴅ ʙʟᴀᴄᴋʟɪsᴛ ʜɪᴍ ғʀᴏᴍ ᴜsɪɴɢ ᴛʜᴇ ʙᴏᴛ.
+/un𝐆ban [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ] : ɢʟᴏʙᴀʟʟʏ ᴜɴʙᴀɴs ᴛʜᴇ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀ.
+/𝐆bannedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀs.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_8 = """
 <b><u>ʟᴏᴏᴘ sᴛʀᴇᴀᴍ :</b></u>
@@ -97,18 +97,18 @@ HELP_8 = """
 /loop [enable/disable] : ᴇɴᴀʙʟᴇs/ᴅɪsᴀʙʟᴇs ʟᴏᴏᴘ ғᴏʀ ᴛʜᴇ ᴏɴɢᴏɪɴɢ sᴛʀᴇᴀᴍ
 /loop [1, 2, 3, ...] : ᴇɴᴀʙʟᴇs ᴛʜᴇ ʟᴏᴏᴘ ғᴏʀ ᴛʜᴇ ɢɪᴠᴇɴ ᴠᴀʟᴜᴇ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_9 = """
 <u><b>ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ᴍᴏᴅᴇ</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs] :
 
-/logs : ɢᴇᴛ ʟᴏɢs ᴏғ ᴛʜᴇ ʙᴏᴛ.
+/lo𝐆s : ɢᴇᴛ ʟᴏɢs ᴏғ ᴛʜᴇ ʙᴏᴛ.
 
-/logger [ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ] : ʙᴏᴛ ᴡɪʟʟ sᴛᴀʀᴛ ʟᴏɢɢɪɴɢ ᴛʜᴇ ᴀᴄᴛɪᴠɪᴛɪᴇs ʜᴀᴩᴩᴇɴ ᴏɴ ʙᴏᴛ.
+/lo𝐆𝐆er [ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ] : ʙᴏᴛ ᴡɪʟʟ sᴛᴀʀᴛ ʟᴏɢɢɪɴɢ ᴛʜᴇ ᴀᴄᴛɪᴠɪᴛɪᴇs ʜᴀᴩᴩᴇɴ ᴏɴ ʙᴏᴛ.
 
 /maintenance [ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ] : ᴇɴᴀʙʟᴇ ᴏʀ ᴅɪsᴀʙʟᴇ ᴛʜᴇ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ᴍᴏᴅᴇ ᴏғ ʏᴏᴜʀ ʙᴏᴛ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_10 = """
 <b><u>ᴘɪɴɢ & sᴛᴀᴛs :</b></u>
@@ -116,11 +116,11 @@ HELP_10 = """
 /start : sᴛᴀʀᴛs ᴛʜᴇ ᴍᴜsɪᴄ ʙᴏᴛ.
 /help : ɢᴇᴛ ʜᴇʟᴩ ᴍᴇɴᴜ ᴡɪᴛʜ ᴇxᴩʟᴀɴᴀᴛɪᴏɴ ᴏғ ᴄᴏᴍᴍᴀɴᴅs.
 
-/ping : sʜᴏᴡs ᴛʜᴇ ᴩɪɴɢ ᴀɴᴅ sʏsᴛᴇᴍ sᴛᴀᴛs ᴏғ ᴛʜᴇ ʙᴏᴛ.
+/pin𝐆 : sʜᴏᴡs ᴛʜᴇ ᴩɪɴɢ ᴀɴᴅ sʏsᴛᴇᴍ sᴛᴀᴛs ᴏғ ᴛʜᴇ ʙᴏᴛ.
 
 /stats : sʜᴏᴡs ᴛʜᴇ ᴏᴠᴇʀᴀʟʟ sᴛᴀᴛs ᴏғ ᴛʜᴇ ʙᴏᴛ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_11 = """
 <u><b>ᴩʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
@@ -132,7 +132,7 @@ HELP_11 = """
 
 /playforce ᴏʀ /vplayforce : sᴛᴏᴩs ᴛʜᴇ ᴏɴɢᴏɪɴɢ sᴛʀᴇᴀᴍ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴛʀᴀᴄᴋ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_12 = """
 <b><u>sʜᴜғғʟᴇ ᴏ̨ᴜᴇᴜᴇ :</b></u>
@@ -140,7 +140,7 @@ HELP_12 = """
 /shuffle : sʜᴜғғʟᴇ's ᴛʜᴇ ᴏ̨ᴜᴇᴜᴇ.
 /queue : sʜᴏᴡs ᴛʜᴇ sʜᴜғғʟᴇᴅ ᴏ̨ᴜᴇᴜᴇ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_13 = """
 <b><u>sᴇᴇᴋ sᴛʀᴇᴀᴍ :</b></u>
@@ -148,18 +148,18 @@ HELP_13 = """
 /seek [ᴅᴜʀᴀᴛɪᴏɴ ɪɴ sᴇᴄᴏɴᴅs] : sᴇᴇᴋ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴛᴏ ᴛʜᴇ ɢɪᴠᴇɴ ᴅᴜʀᴀᴛɪᴏɴ.
 /seekback [ᴅᴜʀᴀᴛɪᴏɴ ɪɴ sᴇᴄᴏɴᴅs] : ʙᴀᴄᴋᴡᴀʀᴅ sᴇᴇᴋ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴛᴏ ᴛʜᴇ ᴛʜᴇ ɢɪᴠᴇɴ ᴅᴜʀᴀᴛɪᴏɴ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_14 = """
 <b><u>ᴅᴏᴡɴʟᴏᴀᴅ sᴇᴄᴛɪᴏɴ</b></u>
 
-/song [sᴏɴɢ ɴᴀᴍᴇ/ʏᴛ ᴜʀʟ] : ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ᴛʀᴀᴄᴋ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ ɪɴ ᴍᴘ3 ᴏʀ ᴍᴘ4 ғᴏʀᴍᴀᴛs.
+/son𝐆 [sᴏɴɢ ɴᴀᴍᴇ/ʏᴛ ᴜʀʟ] : ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ᴛʀᴀᴄᴋ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ ɪɴ ᴍᴘ3 ᴏʀ ᴍᴘ4 ғᴏʀᴍᴀᴛs.
 /video ᴏʀ /yt  ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʟɪɴᴋ ᴏʀ ɴᴀᴍᴇ ᴏғ ᴠɪᴅᴇᴏ ᴀғᴛᴇʀ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴛʜᴇ ᴠɪᴅᴇᴏ.
 /insta ➠ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴ ɪɴsᴛᴀɢʀᴀᴍ ʀᴇᴇʟ.
 /movie ➠ ᴛᴏ ɢᴇᴛ ɪɴғᴏ ᴏғ ᴛʜᴀᴛ ᴍᴏᴠɪᴇ.
 /remove ➠ [ᴠɪᴅᴇᴏ ᴏʀ ᴀᴜᴅɪᴏ ] ʀᴇᴘʟʏ ᴛᴏ ᴀɴ ᴠɪᴅᴇᴏ ғɪʟᴇ. ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ʀᴇᴍᴏᴠᴇ ᴀᴜᴅɪᴏ ᴏʀ ᴠɪᴅᴇᴏ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_15 = """
 <b><u>sᴘᴇᴇᴅ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
@@ -169,66 +169,66 @@ HELP_15 = """
 /speed or /playback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ɢʀᴏᴜᴘ.
 /cspeed or /cplayback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ᴄʜᴀɴɴᴇʟ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_16 = """
-<b><u>CʜᴀᴛGPT :</b></u>
+<b><u>Cʜᴀᴛ𝐆PT :</b></u>
 
   - ʏᴏᴜ ᴄᴀɴ ᴀᴄᴄᴇss DATA from ᴛʜɪs.
  Assis - ᴛʜᴇ ᴀɪ ᴡɪʟʟ ʀᴇsᴘᴏɴsᴇ ɪɴ ᴀᴜᴅɪᴏ ғᴏʀᴍᴀᴛ.
- /gpt - ᴀᴄᴄᴇss ɢᴘᴛ ғᴜɴᴄᴛɪᴏɴᴀʟɪᴛʏ.
+ /𝐆pt - ᴀᴄᴄᴇss ɢᴘᴛ ғᴜɴᴄᴛɪᴏɴᴀʟɪᴛʏ.
  /bard - ɪɴᴏᴠᴋᴇ ᴛʜᴇ ʙᴀʀᴅ ғᴇᴀᴛᴜʀᴇ.
- /llama - Engage with Llama mode
- /gemini - ᴇxᴘʟᴏʀᴇ ɢᴇᴍɪɴɪ ᴍᴏᴅᴇ.
+ /llama - En𝐆a𝐆e with Llama mode
+ /𝐆emini - ᴇxᴘʟᴏʀᴇ ɢᴇᴍɪɴɪ ᴍᴏᴅᴇ.
  /mistral - ᴀᴄᴛɪᴠᴀᴛᴇ ᴍɪsᴛʀᴀʟ ᴄᴏᴅᴇ.
  /tts - ᴛᴏ ᴄᴏɴᴠᴇʀᴛ ᴛᴇxᴛ ᴛᴏ sᴘᴇᴇᴄʜ.
- /bingsearch - ᴛᴏ sᴇᴀʀᴄʜ ɪɴ ʙɪɴɢ ᴘʟᴀᴛғᴏʀᴍ.
- /logo - ᴇɴᴛᴇʀ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ʟᴏɢᴏ.
- /animelogo - ᴇɴᴛᴇʀ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ᴀɴɪᴍᴇ ʟᴏɢᴏ.
+ /bin𝐆search - ᴛᴏ sᴇᴀʀᴄʜ ɪɴ ʙɪɴɢ ᴘʟᴀᴛғᴏʀᴍ.
+ /lo𝐆o - ᴇɴᴛᴇʀ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ʟᴏɢᴏ.
+ /animelo𝐆o - ᴇɴᴛᴇʀ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ᴀɴɪᴍᴇ ʟᴏɢᴏ.
  
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_17 = """
 <b><u>sᴛɪᴄᴋᴇʀs :</b></u>
 
 /mmf ➠ ᴛᴏ ᴍᴇᴍɪғʏ ᴛʜᴇ ɪᴍᴀɢᴇ ᴏʀ sᴛɪᴄᴋᴇʀ.
 /tiny ➠ ʀᴇᴘʟʏ ᴛᴏ sᴛɪᴄᴋᴇʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴛɪɴʏ
-/kang ➠ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴜsᴇᴅ ᴛᴏ ᴋᴀɴɢ ɪᴍᴀɢᴇs ɪɴ sᴛɪᴄᴋᴇʀ.
-/packkang ➠ ᴄʀᴇᴀᴛᴇs ᴀ ᴘᴀᴄᴋ ᴏғ sᴛɪᴄᴋᴇʀs ғʀᴏᴍ ᴀ ᴏᴛʜᴇʀ ᴘᴀᴄᴋ.
+/kan𝐆 ➠ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴜsᴇᴅ ᴛᴏ ᴋᴀɴɢ ɪᴍᴀɢᴇs ɪɴ sᴛɪᴄᴋᴇʀ.
+/packkan𝐆 ➠ ᴄʀᴇᴀᴛᴇs ᴀ ᴘᴀᴄᴋ ᴏғ sᴛɪᴄᴋᴇʀs ғʀᴏᴍ ᴀ ᴏᴛʜᴇʀ ᴘᴀᴄᴋ.
 /stickerid ➠ ɢᴇᴛs ᴛʜᴇ sᴛɪᴄᴋᴇʀ ɪᴅ ᴏғ ᴀ sᴛɪᴄᴋᴇʀ.
 /st ➠ ᴛᴏ ғɪɴᴅ ᴛʜᴇ sᴛɪᴄᴋᴇʀ ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ sᴛɪᴄᴋᴇʀ ɪᴅ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ.
 /meme ➠ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ᴍᴇᴍᴇs.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_18 = """
 <b><u>Tᴀɢ-Aʟʟ :</b></u>
 
- /utag or /uall ➠ ғᴏʀ ᴜɴʟɪᴍɪᴛᴇᴅ ᴛᴀɢ....🫠
- /stoputag or /offuall ➠ ᴛᴏ sᴛᴏᴘ ᴜɴʟɪᴍɪᴛᴇᴅ ᴛᴀɢ
+ /uta𝐆 or /uall ➠ ғᴏʀ ᴜɴʟɪᴍɪᴛᴇᴅ ᴛᴀɢ....🫠
+ /stoputa𝐆 or /offuall ➠ ᴛᴏ sᴛᴏᴘ ᴜɴʟɪᴍɪᴛᴇᴅ ᴛᴀɢ
  /mention or /all ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴏʀ ʀᴇᴘʟʏ ᴛᴏ ᴛᴇxᴛ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ.
  /cancel or /alloff  ➠ ᴛᴏ ᴄᴀɴᴄᴇʟ ᴍᴇɴᴛɪᴏɴ.
- /tagall  ➠  ғᴏʀ ʀᴀɴᴅᴏᴍʟʏ ғᴜɴɴʏ ᴛᴀɢs 😁.
- /tagoff or /tagstop   ➠  sᴛᴏᴘ ᴍᴇɴᴛɪᴏɴɪɴɢ ғᴜɴɴʏ ᴛᴀɢs.
+ /ta𝐆all  ➠  ғᴏʀ ʀᴀɴᴅᴏᴍʟʏ ғᴜɴɴʏ ᴛᴀɢs 😁.
+ /ta𝐆off or /ta𝐆stop   ➠  sᴛᴏᴘ ᴍᴇɴᴛɪᴏɴɪɴɢ ғᴜɴɴʏ ᴛᴀɢs.
  
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_19 = """
 <b><u>Iɴꜰᴏ :</b></u>
 
 /id : ɢᴇᴛ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ɢʀᴏᴜᴘ ɪᴅ. ɪғ ᴜsᴇᴅ ʙʏ ʀᴇᴘʟʏɪɴɢ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ, ɢᴇᴛs ᴛʜᴀᴛ ᴜsᴇʀ's ɪᴅ.
 /info : ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜsᴇʀ.
-/github <ᴜsᴇʀɴᴀᴍᴇ> : ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ɢɪᴛʜᴜʙ ᴜsᴇʀ.
-/sg ➠ ʀᴇᴘʟʏ ᴛᴏ ɪᴅ ᴀᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴛᴏ ɢᴇᴛ ʜɪsᴛᴏʀʏ ᴏғ ᴛʜᴀᴛ ᴘᴇʀsᴏɴ.
-/groupdata & /groupinfo  ➠ ᴛᴏ ɢᴇᴛ ɢʀᴏᴜᴘ ɪɴғᴏ.
+/𝐆ithub <ᴜsᴇʀɴᴀᴍᴇ> : ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ɢɪᴛʜᴜʙ ᴜsᴇʀ.
+/s𝐆 ➠ ʀᴇᴘʟʏ ᴛᴏ ɪᴅ ᴀᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴛᴏ ɢᴇᴛ ʜɪsᴛᴏʀʏ ᴏғ ᴛʜᴀᴛ ᴘᴇʀsᴏɴ.
+/𝐆roupdata & /𝐆roupinfo  ➠ ᴛᴏ ɢᴇᴛ ɢʀᴏᴜᴘ ɪɴғᴏ.
 /whois ➠ ʀᴇᴘʟʏ ᴏʀ ᴛᴀɢ ᴜsᴇʀɴᴀᴍᴇ ᴛᴏ ᴋɴᴏᴡ ᴅᴇᴛᴀɪʟs ᴏғ ᴛʜᴀᴛ ᴘᴇʀsᴏɴ.
 /phone ➠ ᴇɴᴛᴇʀ ʏᴏᴜʀ ᴘʜᴏɴᴇ ɴᴏ. ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇᴛ ᴅᴇᴛᴀɪʟs.
 /Whatsapp {ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ}   ➠  ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛʜᴇ ᴅɪʀᴇᴄᴛ ʟɪɴᴋ ғᴏʀ ʏᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_20 = """
-<b><u>Gʀᴏᴜᴘ :</b></u>
+<b><u>𝐆ʀᴏᴜᴘ :</b></u>
 ᴛʜᴇsᴇ ᴀʀᴇ ᴛʜᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴄᴏᴍᴍᴀɴᴅs:
 
 ⦿ /pin ➠ ᴘɪɴs ᴀ ᴍᴇssᴀɢᴇ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
@@ -245,9 +245,9 @@ HELP_20 = """
 ⦿ /removephoto ➠ ʀᴇᴍᴏᴠᴇs ᴛʜᴇ ɢʀᴏᴜᴘ ᴘʜᴏᴛᴏ.
 ⦿ /zombies ➠ ʀᴇᴍᴏᴠᴇs ᴀᴄᴄ ᴅᴇʟᴇᴛᴇᴅ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ.
 ⦿ /imposter ᴏɴ/ᴏғғ ➠ ᴛᴜʀɴs ᴏɴ ᴏʀ ᴏғғ ᴛʜᴇ ᴡᴀᴛᴄʜᴇʀ ғᴏʀ ʏᴏᴜʀ ɢʀᴏᴜᴘ, ᴡʜɪᴄʜ ɴᴏᴛɪғɪᴇs ᴀʙᴏᴜᴛ ᴜsᴇʀs ᴡʜᴏ ᴄʜᴀɴɢᴇ ᴛʜᴇɪʀ ɴᴀᴍᴇ ᴏʀ ᴜsᴇʀɴᴀᴍᴇ.
-⦿ /lang ➠ ᴄʜᴀɴɢᴇ ᴛʜᴇ ʙᴏᴛ ʟᴀɴɢᴜᴀɢᴇ.
+⦿ /lan𝐆 ➠ ᴄʜᴀɴɢᴇ ᴛʜᴇ ʙᴏᴛ ʟᴀɴɢᴜᴀɢᴇ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_21 = """
 <b><u>Exᴛʀᴀ :</b></u>
@@ -260,25 +260,25 @@ HELP_21 = """
 ⦿ /webss ➠ ᴛᴀᴋᴇs ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴏғ ᴀ ᴡᴇʙsɪᴛᴇ.
 ⦿ /webdl ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʟɪɴᴋ ᴏғ ᴡᴇʙsɪᴛᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇᴛ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ ᴛʜᴀᴛ ᴡᴇʙ
 ⦿ /paste ➠ ᴜᴘʟᴏᴀᴅs ᴀ ᴛᴇxᴛ sɴɪᴘᴘᴇᴛ ᴛᴏ ᴛʜᴇ ᴄʟᴏᴜᴅ ᴀɴᴅ ɢɪᴠᴇs ᴀ ʟɪɴᴋ.
-⦿ /tgm ➠ ᴜᴘʟᴏᴀᴅs ᴀ ᴘʜᴏᴛᴏ (ᴜɴᴅᴇʀ 𝟻ᴍʙ) ᴛᴏ ᴛʜᴇ ᴄʟᴏᴜᴅ ᴀɴᴅ ɢɪᴠᴇs ᴀ ʟɪɴᴋ.
+⦿ /t𝐆m ➠ ᴜᴘʟᴏᴀᴅs ᴀ ᴘʜᴏᴛᴏ (ᴜɴᴅᴇʀ 𝟻ᴍʙ) ᴛᴏ ᴛʜᴇ ᴄʟᴏᴜᴅ ᴀɴᴅ ɢɪᴠᴇs ᴀ ʟɪɴᴋ.
 ⦿ /tr ➠ ᴛʀᴀɴsʟᴀᴛᴇs ᴛᴇxᴛ.
-⦿ /google ➠ sᴇᴀʀᴄʜᴇs ғᴏʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴏɴ ɢᴏᴏɢʟᴇ.
+⦿ /𝐆oo𝐆le ➠ sᴇᴀʀᴄʜᴇs ғᴏʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴏɴ ɢᴏᴏɢʟᴇ.
 ⦿ /stack ➠ sᴇᴀʀᴄʜᴇs ғᴏʀ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ-ʀᴇʟᴀᴛᴇᴅ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴏɴ sᴛᴀᴄᴋ ᴏᴠᴇʀғʟᴏᴡ.  
 ⦿ /short ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʟɪɴᴋ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sʜᴏʀᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ.
 ⦿ /pdf ➠ ʀᴇᴘʟʏ ᴛᴏ ᴊᴘᴇɢ ғɪʟᴇ ᴛᴏ ᴄᴏɴᴠᴇʀᴛ ɪᴍᴀɢᴇ ᴛᴏ ᴘᴅғ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_22 = """
 <b><u>Iᴍᴀɢᴇ :</b></u>
 ᴛʜᴇsᴇ ᴀʀᴇ ᴛʜᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ɪᴍᴀɢᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
 ⦿ /draw ➠ ɢᴇɴᴇʀᴀᴛᴇs ᴀ ᴅʀᴀᴡɪɴɢ ʙᴀsᴇᴅ ᴏɴ ᴀ ɢɪᴠᴇɴ ᴘᴏʀᴏᴍᴘᴛ.
-⦿ /image ➠ sᴇᴀʀᴄʜᴇs ғᴏʀ ᴀɴ ɪᴍᴀɢᴇ ʙᴀsᴇᴅ ᴏɴ ᴀ ɢɪᴠᴇɴ ᴋᴇʏᴡᴏʀᴅ.
+⦿ /ima𝐆e ➠ sᴇᴀʀᴄʜᴇs ғᴏʀ ᴀɴ ɪᴍᴀɢᴇ ʙᴀsᴇᴅ ᴏɴ ᴀ ɢɪᴠᴇɴ ᴋᴇʏᴡᴏʀᴅ.
 ⦿ /upscale ➠ ʀᴇᴘʟʏ ᴛᴏ ᴀɴ ɪᴍᴀɢᴇ ᴛᴏ ᴜᴘsᴄᴀʟᴇ ɪᴛ ᴀɴᴅ ɪᴍᴘʀᴏᴠᴇ ɪᴛs ǫᴜᴀʟɪᴛʏ.
-⦿ /rmbg ➠ ᴛᴏ ʀᴇᴍᴏᴠᴇ ʙᴀᴄᴋɢʀᴏᴜɴᴅ ғʀᴏᴍ ᴀɴ ɪᴍᴀɢᴇ..
+⦿ /rmb𝐆 ➠ ᴛᴏ ʀᴇᴍᴏᴠᴇ ʙᴀᴄᴋɢʀᴏᴜɴᴅ ғʀᴏᴍ ᴀɴ ɪᴍᴀɢᴇ..
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_23 = """
 <b><u>Aᴄᴛɪᴏɴ :</b></u>
@@ -288,58 +288,58 @@ HELP_23 = """
 
 Admins only:
  ❍ /ban <userhandle>: bans a user. (via handle, or reply)
- ❍ /sban <userhandle>: Silently ban a user. Deletes command, Replied message and doesn't reply. (via handle, or reply)
+ ❍ /sban <userhandle>: Silently ban a user. Deletes command, Replied messa𝐆e and doesn't reply. (via handle, or reply)
  ❍ /tban <userhandle> x(m/h/d): bans a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
  ❍ /unban <userhandle>: unbans a user. (via handle, or reply)
- ❍ /kick <userhandle>: kicks a user out of the group, (via handle, or reply)
- ❍ /mute <userhandle>: silences a user. Can also be used as a reply, muting the replied to user.
+ ❍ /kick <userhandle>: kicks a user out of the 𝐆roup, (via handle, or reply)
+ ❍ /mute <userhandle>: silences a user. Can also be used as a reply, mutin𝐆 the replied to user.
  ❍ /tmute <userhandle> x(m/h/d): mutes a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
- ❍ /unmute <userhandle>: unmutes a user. Can also be used as a reply, muting the replied to user.
+ ❍ /unmute <userhandle>: unmutes a user. Can also be used as a reply, mutin𝐆 the replied to user.
  
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_24 = """
 <b><u>Sᴇᴀʀᴄʜ :</b></u>
 Available commands:
-• /google <query> : Search the google for the given query.
-• /anime <query>  : Search myanimelist for the given query.
-• /stack <query>  : Search stackoverflow for the given query.
-• /image (/imgs) <query> : Get the images regarding to your query
-• /mongochk ➠ ᴄʜᴇᴄᴋ ᴛʜᴇ sᴛᴀᴛᴜs ᴏғ ʏᴏᴜ ᴍʀ ᴍᴏɴɢᴏ [ ᵉⁿᵗᵉʳ ᵗʰᵉ ᵐᵒⁿᵍᵒ ˡⁱⁿᵏ ᵃᶠᵗᵉʳ ᶜᵒᵐᵐᵃⁿᵈ ].
+• /𝐆oo𝐆le <query> : Search the 𝐆oo𝐆le for the 𝐆iven query.
+• /anime <query>  : Search myanimelist for the 𝐆iven query.
+• /stack <query>  : Search stackoverflow for the 𝐆iven query.
+• /ima𝐆e (/im𝐆s) <query> : 𝐆et the ima𝐆es re𝐆ardin𝐆 to your query
+• /mon𝐆ochk ➠ ᴄʜᴇᴄᴋ ᴛʜᴇ sᴛᴀᴛᴜs ᴏғ ʏᴏᴜ ᴍʀ ᴍᴏɴɢᴏ [ ᵉⁿᵗᵉʳ ᵗʰᵉ ᵐᵒⁿ𝐆ᵒ ˡⁱⁿᵏ ᵃᶠᵗᵉʳ ᶜᵒᵐᵐᵃⁿᵈ ].
 • /ip ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ɪᴘ ᴀᴅᴅʀᴇss ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇᴛ ɪɴғᴏ ᴏғ ᴛʜᴀᴛ ɪᴘ.
 • /domain ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴅᴏᴍᴀɪɴ ɴᴀᴍᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ғɪɴᴅ ᴛʜᴇ ɪɴғᴏ ᴏғ ᴅᴏᴍᴀɪɴ.
 • /weather ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʟᴏᴄᴀᴛɪᴏɴ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇᴛ ᴡᴇᴀᴛʜᴇʀ ᴏғ ᴛʜᴀᴛ ʟᴏᴄᴀᴛɪᴏɴ.
 • /Time ➠ ᴛᴏ ɢᴇᴛ ᴛɪᴍᴇ ᴏғ ʏᴏᴜʀ ᴛɪᴍᴇ ᴢᴏɴᴇ.
 • /calendar ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʏᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ.
 • /day ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴅᴀᴛᴇ {ʏᴇᴀʀ/ᴍᴏɴᴛʜ/ᴅᴀᴛᴇ} ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ғɪɴᴅ ᴛʜᴇ ᴅᴀʏ ᴏɴ ᴛʜᴀᴛ ᴅᴀᴛᴇ
-• /get_states ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴄᴏᴜɴᴛʀʏ ɴᴀᴍᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ.
+• /𝐆et_states ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴄᴏᴜɴᴛʀʏ ɴᴀᴍᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ.
 Example:
-/google pyrogram: return top 5 reuslts.
+/𝐆oo𝐆le pyro𝐆ram: return top 5 reuslts.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_25 = """
 <b><u>ᴄᴄ :</b></u>
 ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴄᴄ !
-/gen  ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʙɪɴ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ʟɪᴠᴇ ᴄᴄ.
-/genbin ➠ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ʙɪɴ.
+/𝐆en  ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʙɪɴ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ʟɪᴠᴇ ᴄᴄ.
+/𝐆enbin ➠ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ʙɪɴ.
 /bin ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʙɪɴ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ sᴛᴀᴛᴜs ᴏғ ʙɪɴ.
 /fake ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴀɴʏ ʀᴀɴᴅᴏᴍ ᴄᴏᴜɴᴛʀʏ ɴᴀᴍᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ғᴀᴋᴇ ɪɴғᴏ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_26 = """
 <b><u>ᴛᴇxᴛ ᴇᴅɪᴛɪɴɢ :</b></u>
 ᴛʜᴇsᴇ ᴀʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ ᴛᴇxᴛ ᴇᴅɪᴛɪɴɢ ᴏʀ ᴅᴇsɪɢɴɪɴɢ : 
 /font Oʀ /fonts ➠  ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ғᴏɴᴛs ᴇғғᴇᴄᴛ.
-/figlet ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ғɪɢʟᴇᴛ....
-/hastag ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ʜᴀsᴛᴀɢ ᴏғ ᴛʜᴀᴛ ᴛᴇxᴛ.
+/fi𝐆let ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ғɪɢʟᴇᴛ....
+/hasta𝐆 ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ʜᴀsᴛᴀɢ ᴏғ ᴛʜᴀᴛ ᴛᴇxᴛ.
 /code ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴄᴏᴅᴇ ᴛʜᴀᴛ ᴛᴇxᴛ.
-/genpw ➠ ᴛᴏ ɢᴇɴʀᴀᴛᴇ sᴛʀᴏɴɢ  ᴘᴀssᴡᴏʀᴅ.
+/𝐆enpw ➠ ᴛᴏ ɢᴇɴʀᴀᴛᴇ sᴛʀᴏɴɢ  ᴘᴀssᴡᴏʀᴅ.
 /write ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴡʀɪᴛᴇ ɪɴ ɴᴏᴛᴇʙᴏᴏᴋ.
 /qr ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴛᴏ ɢᴇᴛ ǫʀ ᴄᴏᴅᴇ ᴏғ ᴛᴇxᴛ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_27 = """
 <b><u>ᴍᴀsᴛɪ♡︎ :</b></u>
@@ -350,14 +350,14 @@ HELP_27 = """
 /cute ➠ ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴄᴜᴛᴇɴᴇss🥰.
 /hjoke ➠ ɢᴇᴛ ʀᴀɴᴅᴏᴍ ғᴜɴɴʏ ᴊᴏᴋᴇs😁.
 /kiss ➠ ᴛᴏ ᴋɪss sᴏᴍᴇᴏɴᴇ.
-/hug ➠ ᴛᴏ ʜᴜɢ ᴘᴇʀsᴏɴ.
+/hu𝐆 ➠ ᴛᴏ ʜᴜɢ ᴘᴇʀsᴏɴ.
 /slap ➠ ᴛᴏ sʟᴀᴘ sᴏᴍᴇᴏɴᴇ.
 /sleep ➠ ᴛᴏ sʟᴇᴇᴘ🫠.
 /run ➠ ʀᴜɴ😅.
 /wish ➠ ᴇɴᴛᴇʀ ʏᴏᴜʀ ᴡɪsʜ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ.
 /bored ➠ ᴊᴜsᴛ ғᴏʀ ғᴜɴ😁.
-/gamer ➠ ɢᴇᴛ ʏᴏᴜʀ ɢame ᴘᴇʀᴄᴇɴᴛᴀɢᴇ  ˡᵒˡ 😅.
-/handsome ➠ ᴄʜᴇᴄᴋ if u are a gentleman.
+/𝐆amer ➠ ɢᴇᴛ ʏᴏᴜʀ ɢame ᴘᴇʀᴄᴇɴᴛᴀɢᴇ  ˡᵒˡ 😅.
+/handsome ➠ ᴄʜᴇᴄᴋ if u are a 𝐆entleman.
 /kolaru ➠ ᴄʜᴇᴄᴋ ʏᴏᴜʀ Kolaruness🤣.
 /no ➠ᴄʜᴇᴄᴋ ʏᴏᴜʀ rejected ᴘᴇʀᴄᴇɴᴛᴀɢᴇ.
 /cutie ➠ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴄᴜᴛᴇɴᴇss.
@@ -365,36 +365,36 @@ HELP_27 = """
 /cool ➠ ᴄʜᴇᴄᴋ ʜᴏᴡ ᴍᴜᴄʜ Cool you are.
 /uruttu ➠ ᴄʜᴇᴄᴋ how much uruttan you are😝.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_28 = """
 <b><u>ʀᴇᴘᴏ ʀᴇʟᴀᴛᴇᴅ :</b></u>
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ʀᴇɢᴀʀᴅɪɴɢ ʀᴇᴘᴏ
 /allrepo ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ɢɪᴛʜᴜʙ ᴜsᴇʀɴᴀᴍᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇᴛ ᴀʟʟ ʀᴇᴘᴏ ᴏғ ᴛʜᴀᴛ ᴀᴄᴄᴏᴜɴᴛ.
-/pypi ➠ ᴇɴᴛᴇʀ ᴘʀᴏᴊᴇᴄᴛ ɴᴀᴍᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴛᴀᴛs ᴏғ ᴛʜᴀᴛ ᴘʀᴏᴊᴇᴄᴛ [𝗣𝗿𝗼𝗷𝗲𝗰𝘁 = 𝗚𝗶𝘁𝗵𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀 ].
+/pypi ➠ ᴇɴᴛᴇʀ ᴘʀᴏᴊᴇᴄᴛ ɴᴀᴍᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴛᴀᴛs ᴏғ ᴛʜᴀᴛ ᴘʀᴏᴊᴇᴄᴛ [𝗣𝗿𝗼𝗷𝗲𝗰𝘁 = 𝐆�𝗶𝘁𝗵𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀 ].
 /downloadrepo ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʀᴇᴘᴏ ʟɪɴᴋ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴛʜᴇ  ʀᴇᴘᴏ.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_29 = """
 <b><u>ɴᴏᴛᴇs :</b></u>
 ʀᴇɢᴀʀᴅɪɴɢ ɴᴏᴛᴇs....
 /save ➠ ᴇɴᴛᴇʀ ɴᴏᴛᴇ ɴᴀᴍᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ sᴀᴠᴇ ᴛʜᴇ ɴᴏᴛᴇ.
-/get ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ɴᴏᴛᴇ ɴᴀᴍᴇ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇᴛ.
+/𝐆et ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ɴᴏᴛᴇ ɴᴀᴍᴇ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇᴛ.
 /privatenotes  ➠ ᴘʀɪᴠᴀᴛᴇ ɴᴏᴛᴇs 😁😁.
 /clear ➠ ᴛᴏ ᴄʟᴇᴀʀ ᴛʜᴇ ɴᴏᴛᴇs.
 /clearall ➠ ᴛᴏ ᴄʟᴇᴀʀ ᴀʟʟ ɴᴏᴛᴇs.
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
 
 HELP_30 = """
 <b><u>ɢᴀᴍᴇs :</b></u>
- Play Game With Emojis:
+ Play 𝐆ame With Emojis:
 /dice - Dice 🎲
 /dart - Dart 🎯
 /basket - Basket Ball 🏀
-/ball - Bowling Ball 🎳
+/ball - Bowlin𝐆 Ball 🎳
 /football - Football ⚽
 /jackpot - Spin slot machine 🎰
 
-✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢ᏵⳐ𝝚 ☼ ](https://t.me/Team_Hypers_Networks)"""
+✧𓆩ᛗꝋđᵾłēꞩ Ӻɍꝋᵯ𓆪 ➪ [☼ 𝝢𝗖 S𝝞𝝢𝐆Ⳑ𝝚 ☼ ](https://t.me/we_are_universee)"""
