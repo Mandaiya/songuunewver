@@ -30,8 +30,8 @@ from strings import get_string
 ANNIE_VID = [
     "https://telegra.ph/file/5b642532b9f863fd999d4.mp4",
     "https://telegra.ph/file/48aaf9a2343f61a037a26.mp4",
-    "https://telegra.ph/file/26628ccb0d44052fb0dd3.mp4",
-    "https://telegra.ph/file/0941ac1b8e297b7920841.mp4",
+    "https://telegra.ph/file/29e46f69428e818658f56.mp4",
+    "https://telegra.ph/file/0bc40f80a86e4d5e4927c.mp4",
     "https://telegra.ph/file/c7fc58423bbdac8159654.mp4",
     "https://telegra.ph/file/cd996463de11729bc12ed.mp4",
     "https://telegra.ph/file/e0198b8410594518d4030.mp4",
