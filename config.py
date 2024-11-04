@@ -38,7 +38,7 @@ SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/EP_memes")
 # Server limits and configurations - These can be set based on your server configurations
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "50"))
 PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "50"))
-AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
+AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
 SONG_DOWNLOAD_DURATION_LIMIT = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "9999999"))
 
@@ -52,7 +52,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 
 # Pyrogram session strings - You need to generate these yourself
 STRING1 = getenv("STRING_SESSION", None)
-STRING2 = getenv("STRING_SESSION2", "BQGQz6sAPxzG5NFMUfflDeoapo1jQEjbipxblGMtRHqWl69lrXXkNckD9Sgdd63RLvVeZydCpjAYa2KuvhIw0aMllySnbKVPp7Ag-1bO8KixT-Djors0wOq-4Q_Pdz_lfI9-8iYgy_hHv7ek7PsG2b_LgbpfL2lD3pCoLPzNpNvBD_X5II4AndwCHfpBLNjiErEanOI5N4_T-8qa4mKKbz3OA60gh0HS2j6rBzjkdp4jq4wli8YzJ0MJSI4F3VudxC0CRRYQGJ9akU7_oEs1svAPFEZKV1ChdW0B6HNc4L4Odg5-1TYI8c5OAlJ8vhAlZEEwLG9969aLX1XwmtFFGC-R5CwPiAAAAAE1ANwHAA") 
+STRING2 = getenv("STRING_SESSION2", None) 
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
