@@ -1,5 +1,3 @@
-import os
-from dotenv import load_dotenv
 import random
 import logging
 from telegram import Update
@@ -11,11 +9,6 @@ logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
 logger = logging.getLogger(__name__)
-
-load_dotenv()  # Load environment variables from .env file
-
-# Get the bot token from environment variables
-BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Game state
 game_state = {
@@ -169,7 +162,7 @@ async def play(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         game_state["balls_remaining"] -= 1
         await update.message.reply_text(
             f"⚪ Dot ball! No runs scored.\n\nBalls left: {game_state['balls_remaining']}\n"
-            f"📊 \nCurrent Score: {current_player['score']} runs."
+            f"\n📊 Current Score: {current_player['score']} runs."
         )
     else:
         score = random.choice(RUNS)
@@ -177,7 +170,7 @@ async def play(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         game_state["balls_remaining"] -= 1
         await update.message.reply_text(
             f"🏏 {current_player['name']} scored {score} runs! \n\nBalls left: {game_state['balls_remaining']}\n"
-            f"📊 \nTotal Score: {current_player['score']} runs."
+            f"\n📊 Total Score: {current_player['score']} runs."
         )
 
     if game_state["balls_remaining"] <= 0 or current_player["is_out"]:
@@ -232,11 +225,11 @@ async def stats_book(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
     for stats in player_stats.values():
         stats_message += (
             f"👤 {stats['name']}:\n"
-            f"   - Games Played: {stats['games_played']}\n"
-            f"   - Games Won: {stats['games_won']}\n"
-            f"   - Games Lost: {stats['games_lost']}\n"
-            f"   - Total Score: {stats['total_score']}\n"
-            f"   - Level: {stats['level']}\n\n"
+            f"🏏 - Games Played: {stats['games_played']}\n"
+            f"🕹 - Games Won: {stats['games_won']}\n"
+            f"🗽 - Games Lost: {stats['games_lost']}\n"
+            f"🎼 - Total Score: {stats['total_score']}\n"
+            f"🎚  - Level: {stats['level']}\n\n"
         )
 
     await update.message.reply_text(stats_message)
@@ -258,7 +251,7 @@ async def help_book(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 # Main function
 def main() -> None:
     """Run the bot."""
-    application = Application.builder().token("BOT_TOKEN").build()
+    application = Application.builder().token("6270407253:AAGeayWDFJoIz0kkQ-eqadCZ0Gv_3eD0P24").build()
 
     application.add_handler(CommandHandler("startgame", start_game))
     application.add_handler(CommandHandler("join", join_game))
