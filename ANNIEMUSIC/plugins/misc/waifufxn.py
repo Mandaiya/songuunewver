@@ -29,7 +29,7 @@ GIFS = {
         "https://telegra.ph/file/9cab22ae3d0c71a7ddb43.mp4",
         "https://telegra.ph/file/515cab214dd7c61da0782.mp4",
     ],
-    "kill": [
+    "knife": [
         "https://telegra.ph/file/b170b3d3f69a0fe2a9c26.mp4",
         "https://telegra.ph/file/16a4598feac081275823d.mp4",
         "https://telegra.ph/file/23452c358b5d722f1331f.mp4",
@@ -37,7 +37,7 @@ GIFS = {
         "https://telegra.ph/file/63dd415d3315412ebfc1b.mp4",
         "https://telegra.ph/file/173696093432bd0053eab.mp4",
     ],
-    "kick": [
+    "kicks": [
         "https://telegra.ph/file/3b23aaa0942430ad320dc.mp4",
         "https://telegra.ph/file/473c2401fdcc878fd7310.mp4",
         "https://telegra.ph/file/84a3745c1127834921161.mp4",
@@ -125,7 +125,7 @@ def animation_command(client, message):
             "punch": {"emoji": "💥", "text": "adichitangaleyy"},
             "slap": {"emoji": "😒", "text": "yenna ley aaranzita"},
             "hide": {"emoji": "😛", "text": "nambo olinzipom"},
-            "kill": {"emoji": "😵", "text": "yenna ley konnuputta"},
+            "knife": {"emoji": "😵", "text": "yenna ley konnuputta"},
             "kick": {"emoji": "😠", "text": "ayioo vothachitan heh"},
             "hug": {"emoji": "🤗", "text": "ieee katipudichitanga"},
             "bite": {"emoji": "😈", "text": "ina ley kadikuraa"},
