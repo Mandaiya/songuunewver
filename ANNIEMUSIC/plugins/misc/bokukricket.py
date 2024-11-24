@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 load_dotenv()  # Load environment variables from .env file
 
 # Get the bot token from environment variables
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Game state
 game_state = {
@@ -258,7 +258,7 @@ async def help_book(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 # Main function
 def main() -> None:
     """Run the bot."""
-    application = Application.builder().token("TELEGRAM_BOT_TOKEN").build()
+    application = Application.builder().token("BOT_TOKEN").build()
 
     application.add_handler(CommandHandler("startgame", start_game))
     application.add_handler(CommandHandler("join", join_game))
