@@ -1,3 +1,5 @@
+import os
+from dotenv import load_dotenv
 import random
 import logging
 from telegram import Update
@@ -9,6 +11,11 @@ logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
 logger = logging.getLogger(__name__)
+
+load_dotenv()  # Load environment variables from .env file
+
+# Get the bot token from environment variables
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 
 # Game state
 game_state = {
@@ -248,18 +255,10 @@ async def help_book(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         "7. `/helpbook` - Display this help message."
     )
 
-from dotenv import load_dotenv
-import os
-
-# Load environment variables from a .env file
-load_dotenv()
-
+# Main function
 def main() -> None:
     """Run the bot."""
-    bot_token = os.getenv("BOT_TOKEN")
-    if not bot_token:
-        raise ValueError("Bot token not found. Make sure BOT_TOKEN is set in the .env file.")
-    application = Application.builder().token(bot_token).build()
+    application = Application.builder().token("TELEGRAM_BOT_TOKEN").build()
 
     application.add_handler(CommandHandler("startgame", start_game))
     application.add_handler(CommandHandler("join", join_game))
@@ -270,7 +269,6 @@ def main() -> None:
     application.add_handler(CommandHandler("helpbook", help_book))
 
     application.run_polling()
-
 
 if __name__ == "__main__":
     main()
