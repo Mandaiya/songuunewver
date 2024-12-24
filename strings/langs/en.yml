@@ -1,7 +1,7 @@
 name : 🇺🇸 English
 
 
-general_1 : "▢▢ ʀᴇᴘʟʏ ᴛᴏ ᴜꜱᴇʀ'ꜱ ᴍᴇꜱꜱᴀɢᴇ ᴏʀ ɢɪᴠᴇ ᴀ ᴜꜱᴇʀɴᴀᴍᴇ."
+general_1 : "Hi - Respond to a user's message or supply their username or user ID. ."
 general_2 : "▢▢ ʏᴇɴɴᴀᴍᴏ ᴀɢɪᴛᴜ, ʏᴜɴɢᴀ Qᴜᴇʀʏ ʜᴀ ᴘʀᴏᴄᴇꜱꜱ ᴘᴀɴɴᴜᴍ ʙᴏᴛʜᴜ.\n\nᴇxᴄᴇᴘᴛɪᴏɴ : <code>{0}</code>"
 general_3 : "▢▢ ɪᴘᴏ ᴀɴᴏɴʏᴍᴏᴜꜱ ɴᴇᴇ.. ᴏᴅɪ ᴘᴏɪᴛᴜ🏃‍♂️ ʏᴜɴɢᴀ ᴜꜱᴇʀ ᴀᴄᴄᴏᴜɴᴛ ʟᴀ ᴠᴀɴɢᴀ ᴘᴀᴘᴘᴏᴍ."
 general_4 : "▢▢ ᴀɴᴛʜᴀ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ɪʀʀᴜɴᴛʜᴀ ᴛʜᴀɴ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ ʟᴀᴍ ᴠᴀʀᴜᴍ..\n\nᴀɴᴛʜᴀ ʀᴇʟᴏᴀᴅ ʙᴜᴛᴛᴏɴ ʜᴀ ᴛʜᴀᴛɪ ᴠɪᴅᴜɴɢᴀ🥹 /reload"
@@ -17,8 +17,8 @@ tg_7 : "▢▢ ᴅᴏᴡɴʟᴏᴀᴅ ᴄᴀɴᴄᴇʟʟᴇᴅ ʙʏ : {0}"
 tg_8 : "ғᴀɪʟᴇᴅ ᴛᴏ sᴛᴏᴘ ᴛʜᴇ ᴅᴏᴡɴʟᴏᴀᴅ."
 tg_9 : "ғᴀɪʟᴇᴅ ᴛᴏ ɢᴇᴛ ᴛʜᴇ ᴏɴɢᴏɪɴɢ ᴅᴏᴡɴʟᴏᴀᴅ ᴛᴀsᴋ..."
 
-call_1 : "□■ 𝐁𝐨𝐭 𝐤𝐮 - <b>𝐈𝐧𝐯𝐢𝐭𝐞 𝐔𝐬𝐞𝐫𝐬 𝐎𝐧 𝐩𝐚𝐧𝐧𝐢 𝐕𝐢𝐝𝐮𝐧𝐠𝐚</b> 𝐀𝐩𝐨 𝐓𝐡𝐚𝐧 𝐀𝐭𝐡𝐮 𝐕𝐚𝐧𝐭𝐡𝐮 𝐒𝐨𝐧𝐠 𝐏𝐚𝐚𝐝𝐮𝐦."
-call_2 : "<u>{0} 𝐘𝐞𝐯𝐚𝐧 𝐃𝐚 𝐀𝐧𝐭𝐡𝐚 𝐀𝐒𝐒𝐈𝐒𝐓𝐀𝐍𝐓 𝐢'𝐝 𝐡𝐚 𝐁𝐚𝐧 𝐏𝐚𝐧𝐧𝐚𝐭𝐡𝐮.</u>\n\n<b>𝓘𝓓 :</b> <code>{1}</code>\n<b>ɴᴀᴍᴇ :</b> {2}\n<b>US𝝚Ɍ𝝢𝝖𝝡𝝚 :</b> @{3}\n\n𝘐𝘋 𝘜𝘯𝘣𝘢𝘯 𝘗𝘢𝘯𝘯𝘪𝘵𝘶 𝘔𝘢𝘳𝘬𝘢 𝘛𝘳𝘺 𝘱𝘢𝘯𝘯𝘶𝘯𝘨𝘢."
+call_1 : "kindly provide the Admin access - so the bot assistant id can able to give company for you to hear the music ​.\n\nᴅɪsᴀʙʟᴇ ᴄʜᴀɴɴᴇʟ ᴘʟᴀʏᴍᴏᴅᴇ ᴠɪᴀ : /playmode"
+call_2 : "<u>{0}Uh-oh! Looks like the assistant got the boot/ban from your group or channel. ​, Come on, cut the assistant some slack and unban them! 😜.</u>\n\n<b>𝓘𝓓 :</b> <code>{1}</code>\n<b>ɴᴀᴍᴇ :</b> {2}\n<b>US𝝚Ɍ𝝢𝝖𝝡𝝚 :</b> @{3}\n\n𝘐𝘋 𝘜𝘯𝘣𝘢𝘯 𝘗𝘢𝘯𝘯𝘪𝘵𝘶 𝘔𝘢𝘳𝘬𝘢 𝘛𝘳𝘺 𝘱𝘢𝘯𝘯𝘶𝘯𝘨𝘢."
 call_3 : "𝙰𝚗𝚝𝚑𝚊 𝙶𝚊𝚝𝚎 𝚝𝚊 𝙾𝚙𝚎𝚗 𝚙𝚊𝚗𝚗𝚎𝚗𝚐𝚊𝚗𝚊 {0} 𝙰𝚜𝚜𝚒𝚜𝚝𝚊𝚗𝚝 𝚈𝚞𝚕𝚕𝚊 𝚅𝚊𝚗𝚝𝚑𝚞𝚛𝚞𝚖.\n\nʀᴇᴀsᴏɴ : <code>{1}</code>"
 call_4 : "𝟙... 𝟚... 𝟛......\n\nNαℓαναηαєє {0} 𝙰𝚜𝚜𝚒𝚜𝚝𝚊𝚗𝚝𝚎𝚎 𝙶𝚛𝚘𝚞𝚙 𝙺𝚞𝚕𝚕𝚊  𝚟𝚊𝚊 ....."
 call_5 : "{0} 𝙱𝚐𝚖 𝙿𝚘𝚍𝚞.. 𝙱𝚐𝚖 𝙿𝚘𝚍𝚞...\n\n𝙽𝚊𝚗 𝚅𝚊𝚗𝚝𝚑𝚞𝚝𝚎𝚗 - 𝚅𝚒𝚋𝚎 𝙿𝚊𝚗𝚊𝚕𝚊𝚖𝚊𝚊..."
