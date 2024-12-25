@@ -13,7 +13,7 @@ levels = {}
 OVERS_LIMIT = 6
 WINNING_SCORE = 1000
 LEVEL_THRESHOLD = 50
-FLOOD_WAIT_TIME = 180  # 3 minutes in seconds
+FLOOD_WAIT_TIME = 50  # 0.5 minutes in seconds
 
 @app.on_message(filters.command("bat"))
 async def bat(bot, message):
