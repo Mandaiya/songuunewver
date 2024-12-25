@@ -1,6 +1,6 @@
 from pyrogram import filters
 from pyrogram.types import Message
-from ANNIEMUSIC.plugins.modules.pretenderdb import impo_off, impo_on, check_pretender, add_userdata, get_userdata, usr_data
+from ANNIEMUSIC.plugins.pretenderdb import impo_off, impo_on, check_pretender, add_userdata, get_userdata, usr_data
 from ANNIEMUSIC import app
 
 
